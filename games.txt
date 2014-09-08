@@ -1,0 +1,8 @@
+AvB
+DvE
+---
+AvC
+DvF
+---
+BvC
+EvF
