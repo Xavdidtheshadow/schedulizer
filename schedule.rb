@@ -2,11 +2,11 @@ require './referee'
 require './game'
 
 class Schedule
-  def initialize(num_pools, num_teams, num_rounds)
+  def initialize(num_teams, num_pools, num_rounds)
     # puts 'time to schedule!'
     # number of games in a day(or in pool play)
-    @num_teams = num_teams
     @num_pools = num_pools
+    @num_teams = num_teams
     @num_rounds = num_rounds
     @games = []
     @refs = []
