@@ -1,18 +1,27 @@
 class Game
   attr_accessor :round
+  attr_accessor :pitch
+  attr_accessor :hr
+  attr_accessor :sr
+  attr_accessor :ar1
+  attr_accessor :ar2
 
-  def initialize(a, b, p)
+
+  def initialize(a, b)
     @team_a = a
     @team_b = b
-    @hr = nil
-    @sr = nil
-    @ar1 = nil
-    @ar2 = nil
     # could maybe take pitch info - need to make a spec
-    @pitch = p
   end
 
   def display
     puts "Game between #{@team_a} and #{@team_b} on pitch #{@pitch}"
+  end
+
+  def playing(team)
+    team == @team_a or team == @team_b
+  end
+
+  def to_s
+    "#{@team_a} vs #{@team_b}"
   end
 end

@@ -7,15 +7,20 @@ class Referee
     # stars <=> anOther.stars
   # end
 
-  def initialize(id)
-    puts 'New referee!'
+  def initialize(team)
+    # puts 'New referee!'
     # call to refdevelopment.com/info/ID
     # response = open('')
     # @name = response['name']
     # @team = response['team']
+    @team = team
     # mongo query for stars
-    # db.stars.find({"to": uid}).to_a.size
-    # @stars = response['stars']
+    # db.stars.find({"to": id}).to_a.size
     # need something about cert level
+  end
+
+  # dunno why this doesn't work
+  def to_s
+    "Ref #{@team}"
   end
 end
