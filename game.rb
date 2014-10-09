@@ -13,15 +13,15 @@ class Game
     # could maybe take pitch info - need to make a spec
   end
 
-  def display
-    puts "Game between #{@team_a} and #{@team_b} on pitch #{@pitch}"
-  end
-
   def playing(team)
     team == @team_a or team == @team_b
   end
 
+  def inspect
+    "INSPECT Game between #{@team_a} and #{@team_b} on pitch #{@pitch}"
+  end
+
   def to_s
-    "#{@team_a} vs #{@team_b}"
+    "Round #{@round}\nPitch #{@pitch}\n#{@team_a} vs #{@team_b}\nHR: #{@hr}\n\n"
   end
 end

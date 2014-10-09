@@ -2,16 +2,22 @@ require './referee'
 require './game'
 require 'pp'
 
+Rank = Struct.new(:name, :score) do 
+  def <=>(o)
+    self[:score] <=> o[:score]
+  end
+end
+
 class Schedule
   def initialize(num_teams, num_pools, num_rounds)
-    # puts 'time to schedule!'
-    # number of games in a day(or in pool play)
     @num_pools = num_pools
     @num_teams = num_teams
     @num_rounds = num_rounds
     @games = []
     @refs = []
     @busy = []
+    @assignments = {}
+    @possibilities = {}
   end
 
   def read_games
@@ -22,7 +28,7 @@ class Schedule
     f.each do |line|
       # this is too flimsy
       if line[0] != '-'
-        line = line.chomp.split('v')
+        line = line.chomp.split('|')
         g = Game.new(line[0], line[1])
         g.round = round
         g.pitch = pitch
@@ -40,10 +46,11 @@ class Schedule
   def read_refs
     f = open('refs.txt')
     f.each do |line|
-      r = Referee.new(line.chomp)
+      line = line.chomp.split('|')
+      r = Referee.new(line[0],line[1])
       @refs << r
     end
-    puts "Read in #{@refs.size} referees"
+    # puts "Read in #{@refs.size} referees"
   end
 
   def print_games
@@ -52,25 +59,26 @@ class Schedule
       puts "Round: #{round}"
       puts "---------------"
       @games[round].each do |g|
-        g.display
-        find_refs(round, g)
+        puts g
+        # find_refs(round, g)
       end
-      puts "available for this round: #{@refs - @busy}"
+    end
+  end
+
+  def check_availability
+    @num_rounds.times do |round|
       @busy = []
-    end
-  end
 
-  def find_refs(round, game)
-
-    @refs.each do |ref|
-      if game.playing(ref.team)
-        @busy << ref
+      @games[round].each do |g|
+        @busy += @refs.select{|r| g.playing(r.team)}
       end
+
+      @possibilities[round] = @refs - @busy
+      puts "available for round #{round}: #{@possibilities[round]}"
     end
   end
 
+  def score_refs
+    
+  end
 end
-
-# ABC
-
-# DEF 
