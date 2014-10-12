@@ -9,15 +9,11 @@ Rank = Struct.new(:name, :score) do
 end
 
 class Schedule
-  def initialize(num_teams, num_pools, num_rounds)
-    @num_pools = num_pools
-    @num_teams = num_teams
-    @num_rounds = num_rounds
+  def initialize
     @games = []
     @refs = []
-    @busy = []
-    @assignments = {}
-    @possibilities = {}
+    read_games
+    read_refs
   end
 
   def read_games
@@ -41,6 +37,7 @@ class Schedule
         pitch = 0
       end
     end
+    @num_rounds = round
   end    
 
   def read_refs
@@ -66,19 +63,28 @@ class Schedule
   end
 
   def check_availability
+    possibilities = {}
     @num_rounds.times do |round|
-      @busy = []
+      busy = []
 
       @games[round].each do |g|
-        @busy += @refs.select{|r| g.playing(r.team)}
+        busy += @refs.select{|r| g.playing(r.team)}
       end
 
-      @possibilities[round] = @refs - @busy
-      puts "available for round #{round}: #{@possibilities[round]}"
+      possibilities[round] = @refs - busy
+      puts "available for round #{round}: #{possibilities[round].sort}"
+
+      @games[round].each do |g|
+        if not possibilities[round].empty?
+          g.hr = possibilities[round].pop
+        else
+          break
+        end
+      end
     end
   end
 
   def score_refs
-    
+
   end
 end
