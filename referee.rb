@@ -2,6 +2,7 @@ class Referee
   attr_accessor :name
   attr_accessor :team
   attr_accessor :stars
+  attr_accessor :streak
 
   # def <=>(anOther)
     # stars <=> anOther.stars
@@ -16,6 +17,7 @@ class Referee
     @name = name
     @team = team
     @stars = rand(1..10)
+    @streak = 0
     # mongo query for stars
     # db.stars.find({"to": id}).to_a.size
     # need something about cert level
@@ -23,12 +25,12 @@ class Referee
 
   # used for puts array of refs?!
   def inspect
-    "#{@name}(#{@team})(#{stars})"
+    "#{@name}(#{@team})(#{@stars})(#{@streak})"
   end
 
   # used for puts game
   def to_s
-    "#{@name}(#{@team})(#{stars})"
+    "#{@name}(#{@team})(#{@stars})(#{@streak})"
   end
 
   def <=>(o)

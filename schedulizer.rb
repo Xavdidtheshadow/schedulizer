@@ -3,5 +3,5 @@
 require './schedule'
 s = Schedule.new
 
-s.check_availability
-s.print_games
+s.assign_refs
+# s.print_games

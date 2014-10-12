@@ -12,3 +12,5 @@ Referee scheduling at its finest
 ## Thoughts
 * Look into how ruby does includes - I've got come c++ level trees going on and I'm not sure that's ok.
 
+## Spec
+It doesn't have to be a perfect grid- just leave a round smaller if there are fewer games. 

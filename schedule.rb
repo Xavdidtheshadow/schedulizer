@@ -62,25 +62,44 @@ class Schedule
     end
   end
 
-  def check_availability
+  def assign_refs
     possibilities = {}
     @num_rounds.times do |round|
       busy = []
 
       @games[round].each do |g|
         busy += @refs.select{|r| g.playing(r.team)}
+        busy.map{|r| r.streak = 0}
       end
 
       possibilities[round] = @refs - busy
-      puts "available for round #{round}: #{possibilities[round].sort}"
+      possibilities[round].sort!
+      puts "available for round #{round}: #{possibilities[round]}"
+
 
       @games[round].each do |g|
         if not possibilities[round].empty?
+          while not possibilities[round].empty? and possibilities[round].last.streak > 2
+            # puts "resetting #{possibilities[round].last}"
+            possibilities[round].last.streak = 0
+            possibilities[round].pop
+          end
           g.hr = possibilities[round].pop
+          g.hr.streak += 1 if not g.hr.nil?
         else
           break
         end
       end
+      possibilities[round].map{|r| r.streak = 0}
+
+      puts "---------------"
+      puts "Round: #{round}"
+      puts "---------------"
+      @games[round].each do |g|
+        puts g
+        # find_refs(round, g)
+      end
+
     end
   end
 
