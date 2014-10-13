@@ -1,7 +1,6 @@
-AA|Nelson
 AC|Coleman
-FF|Reese
+XX|Reese
 BB|Moyer
 AD|Thompson
 BD|Ewton
-FF|Behler
+XX|Behler

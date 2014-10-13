@@ -2,12 +2,6 @@ require './referee'
 require './game'
 require 'pp'
 
-Rank = Struct.new(:name, :score) do 
-  def <=>(o)
-    self[:score] <=> o[:score]
-  end
-end
-
 class Schedule
   def initialize
     @games = []
@@ -73,7 +67,7 @@ class Schedule
       end
 
       possibilities[round] = @refs - busy
-      possibilities[round].sort!
+      possibilities[round].sort_by! {|r| [r.pool == "X" ? 0 : 1,r.stars,r.name]}
       puts "available for round #{round}: #{possibilities[round]}"
 
 
@@ -100,6 +94,16 @@ class Schedule
         # find_refs(round, g)
       end
 
+    end
+  end
+
+  def double_check
+    @games.each do |round|
+      round.each do |g|
+        if g.hr.nil?
+          puts "#{g.round}:#{g.pitch} is invalid"
+        end
+      end
     end
   end
 
