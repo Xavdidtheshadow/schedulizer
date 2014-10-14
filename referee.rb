@@ -3,7 +3,7 @@ class Referee
   attr_accessor :team
   attr_accessor :stars
   attr_accessor :streak
-  attr_accessor :pool
+  attr_accessor :pool #char
 
   # def <=>(anOther)
     # stars <=> anOther.stars

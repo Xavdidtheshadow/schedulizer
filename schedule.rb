@@ -72,14 +72,26 @@ class Schedule
 
 
       @games[round].each do |g|
+        rotation = 0
         if not possibilities[round].empty?
           while not possibilities[round].empty? and possibilities[round].last.streak > 2
+            # gotta take a break
             # puts "resetting #{possibilities[round].last}"
             possibilities[round].last.streak = 0
             possibilities[round].pop
           end
+          while possibilities[round].last.pool == g.pool
+            # can't ref your own pool! 
+            # pick someone else! rotate & unrotate?
+            possibilities[round].rotate! -1
+            rotation += 1
+          end
           g.hr = possibilities[round].pop
           g.hr.streak += 1 if not g.hr.nil?
+
+          if rotation > 0
+            possibilities[round].rotate! rotation
+          end
         else
           break
         end

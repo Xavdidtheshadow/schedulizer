@@ -1,6 +1,7 @@
 class Game
   attr_accessor :round
   attr_accessor :pitch
+  attr_accessor :pool #char
   attr_accessor :hr
   attr_accessor :sr
   attr_accessor :ar1
@@ -10,6 +11,7 @@ class Game
   def initialize(a, b)
     @team_a = a
     @team_b = b
+    @pool = @team_a[0]
     # could maybe take pitch info - need to make a spec
   end
 
