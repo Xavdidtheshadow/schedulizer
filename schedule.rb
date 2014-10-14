@@ -11,7 +11,7 @@ class Schedule
   end
 
   def read_games
-    f = open('games.txt')
+    f = open('dm_games.txt')
     round = 0
     pitch = 0
     round_games = []
@@ -35,7 +35,7 @@ class Schedule
   end    
 
   def read_refs
-    f = open('refs.txt')
+    f = open('dm_refs.txt')
     f.each do |line|
       line = line.chomp.split('|')
       r = Referee.new(line[0],line[1])
@@ -80,11 +80,13 @@ class Schedule
             possibilities[round].last.streak = 0
             possibilities[round].pop
           end
+          # only do this block if we're worrying about reffing your own pool
           while possibilities[round].last.pool == g.pool
             # can't ref your own pool! 
             # pick someone else! rotate & unrotate?
             possibilities[round].rotate! -1
             rotation += 1
+            break if rotation == possibilities[round].size 
           end
           g.hr = possibilities[round].pop
           g.hr.streak += 1 if not g.hr.nil?
