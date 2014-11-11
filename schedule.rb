@@ -2,16 +2,20 @@ require './referee'
 require './game'
 require 'pp'
 
+# don't build this file, it doesn't do anything
+
 class Schedule
   def initialize
     @games = []
     @refs = []
+    @possibilities = {}
+    @fname = 'au'
     read_games
     read_refs
   end
 
   def read_games
-    f = open('dm_games.txt')
+    f = open("#{@fname}_games.txt")
     round = 0
     pitch = 0
     round_games = []
@@ -35,10 +39,14 @@ class Schedule
   end    
 
   def read_refs
-    f = open('dm_refs.txt')
+    f = open("#{@fname}_refs.txt")
     f.each do |line|
       line = line.chomp.split('|')
+      # if line.size == 3
+        # r = Referee.new(line[0],line[1],line[2])
+      # else
       r = Referee.new(line[0],line[1])
+      # end
       @refs << r
     end
     # puts "Read in #{@refs.size} referees"
@@ -56,53 +64,77 @@ class Schedule
     end
   end
 
-  def assign_refs
-    possibilities = {}
+  def find_possibilities
     @num_rounds.times do |round|
       busy = []
 
       @games[round].each do |g|
         busy += @refs.select{|r| g.playing(r.team)}
-        busy.map{|r| r.streak = 0}
+        # this is broken now it's in a separate place
+        # busy.map{|r| r.streak = 0}
       end
 
-      possibilities[round] = @refs - busy
-      possibilities[round].sort_by! {|r| [r.pool == "X" ? 0 : 1,r.stars,r.name]}
-      puts "available for round #{round}: #{possibilities[round]}"
+      @possibilities[round] = @refs - busy
+    end
+      
+    # wide availability stuff
+    @num_rounds.times do |round|
+      wide = []
+      # pull out anyone who's playing before or after this round
+      if round > 0
+        @games[round - 1].each do |g|
+          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+        end
+      end
 
+      if round < @num_rounds - 1
+        @games[round + 1].each do |g|
+          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+        end
+      end
 
+      @possibilities[round] -= wide
+      @possibilities[round].sort_by! {|ref| [ref.pool == "X" ? 0 : 1,ref.stars,ref.name]}
+    end
+  end
+
+  def assign_refs
+    find_possibilities
+    
+    @num_rounds.times do |round|
       @games[round].each do |g|
         rotation = 0
-        if not possibilities[round].empty?
-          while not possibilities[round].empty? and possibilities[round].last.streak > 2
+        if not @possibilities[round].empty?
+          while not @possibilities[round].empty? and @possibilities[round].last.streak > 2
             # gotta take a break
-            # puts "resetting #{possibilities[round].last}"
-            possibilities[round].last.streak = 0
-            possibilities[round].pop
+            @possibilities[round].last.streak = 0
+            @possibilities[round].pop
           end
           # only do this block if we're worrying about reffing your own pool
-          while possibilities[round].last.pool == g.pool
+          while @possibilities[round].last.pool == g.pool
             # can't ref your own pool! 
             # pick someone else! rotate & unrotate?
-            possibilities[round].rotate! -1
+            @possibilities[round].rotate! -1
             rotation += 1
-            break if rotation == possibilities[round].size 
+            break if rotation == @possibilities[round].size 
           end
-          g.hr = possibilities[round].pop
+          g.hr = @possibilities[round].pop
           g.hr.streak += 1 if not g.hr.nil?
 
           if rotation > 0
-            possibilities[round].rotate! rotation
+            @possibilities[round].rotate! rotation
           end
         else
           break
         end
       end
-      possibilities[round].map{|r| r.streak = 0}
+      @possibilities[round].map{|r| r.streak = 0}
 
       puts "---------------"
       puts "Round: #{round}"
+      puts "available for round #{round}: #{@possibilities[round]}"
       puts "---------------"
+
       @games[round].each do |g|
         puts g
         # find_refs(round, g)

@@ -5,10 +5,6 @@ class Referee
   attr_accessor :streak
   attr_accessor :pool #char
 
-  # def <=>(anOther)
-    # stars <=> anOther.stars
-  # end
-
   def initialize(team, name)
     # puts 'New referee!'
     # call to refdevelopment.com/info/ID
