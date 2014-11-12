@@ -4,10 +4,10 @@ Round: 0
 Round 0
 Pitch 1
 Wrackspurts vs Perth
-HR: Morgyn Benstead(A)(6)
+HR: Minh Diep(A)(6)
 
-Also available for round 0: [Minh Diep(A)(2), James Putin(B)(4), Kieran Tolley(B)(8)]
-Available before and after round 0: [Nicola Elizabeth Gertler(A)(1), Emma Morris(B)(10), Matthew Partridge(A)(7)]
+Also available for round 0: [James Putin(B)(3), Morgyn Benstead(A)(5), Kieran Tolley(B)(8)]
+Available, but playing before or after round 0: [Emma Morris(B)(10), Nicola Elizabeth Gertler(A)(5), Matthew Partridge(A)(7)]
 
 ---------------
 Round: 1
@@ -15,7 +15,7 @@ Round: 1
 Round 1
 Pitch 0
 Muggles vs Basilisks
-HR: Minh Diep(A)(2)
+HR: Minh Diep(A)(6)
 
 Round 1
 Pitch 1
@@ -23,7 +23,7 @@ Sydney vs Manticores
 HR: 
 
 Also available for round 1: []
-Available before and after round 1: [James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Morgyn Benstead(A)(6), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 1: [Eva Alexandra Anastasia(B)(1), James Putin(B)(3), Morgyn Benstead(A)(5), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 2
@@ -31,15 +31,15 @@ Round: 2
 Round 2
 Pitch 0
 Nargles vs Wollongong
-HR: Eva Alexandra Anastasia(B)(5)
+HR: Eva Alexandra Anastasia(B)(1)
 
 Round 2
 Pitch 1
 Macquarie vs UWS
-HR: Minh Diep(A)(2)
+HR: Minh Diep(A)(6)
 
 Also available for round 2: []
-Available before and after round 2: [Nicola Elizabeth Gertler(A)(1), Emma Morris(B)(10), Matthew Partridge(A)(7), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 2: [Emma Morris(B)(10), Nicola Elizabeth Gertler(A)(5), Matthew Partridge(A)(7), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 3
@@ -50,7 +50,7 @@ Wrackspurts vs Newcastle
 HR: Emma Morris(B)(10)
 
 Also available for round 3: []
-Available before and after round 3: [Nicola Elizabeth Gertler(A)(1), Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Morgyn Benstead(A)(6), Matthew Partridge(A)(7), Kieran Tolley(B)(8)]
+Available, but playing before or after round 3: [Eva Alexandra Anastasia(B)(1), James Putin(B)(3), Morgyn Benstead(A)(5), Nicola Elizabeth Gertler(A)(5), Minh Diep(A)(6), Matthew Partridge(A)(7), Kieran Tolley(B)(8)]
 
 ---------------
 Round: 4
@@ -58,7 +58,7 @@ Round: 4
 Round 4
 Pitch 0
 UNSW vs Muggles
-HR: James Putin(B)(4)
+HR: James Putin(B)(3)
 
 Round 4
 Pitch 1
@@ -66,7 +66,7 @@ Perth vs Sydney
 HR: 
 
 Also available for round 4: []
-Available before and after round 4: [Emma Morris(B)(10), Morgyn Benstead(A)(6), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 4: [Emma Morris(B)(10), Morgyn Benstead(A)(5), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 5
@@ -82,7 +82,7 @@ Manticores vs Macquarie
 HR: Christian Barquin(B)(9)
 
 Also available for round 5: []
-Available before and after round 5: [Nicola Elizabeth Gertler(A)(1), Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Matthew Partridge(A)(7)]
+Available, but playing before or after round 5: [Eva Alexandra Anastasia(B)(1), James Putin(B)(3), Nicola Elizabeth Gertler(A)(5), Minh Diep(A)(6), Matthew Partridge(A)(7)]
 
 ---------------
 Round: 6
@@ -90,15 +90,15 @@ Round: 6
 Round 6
 Pitch 0
 Wollongong vs UTS
-HR: Eva Alexandra Anastasia(B)(5)
+HR: Eva Alexandra Anastasia(B)(1)
 
 Round 6
 Pitch 1
 UWS vs Newcastle
 HR: Matthew Partridge(A)(7)
 
-Also available for round 6: [Nicola Elizabeth Gertler(A)(1), Minh Diep(A)(2)]
-Available before and after round 6: [Emma Morris(B)(10), Morgyn Benstead(A)(6), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Also available for round 6: [Nicola Elizabeth Gertler(A)(5), Minh Diep(A)(6)]
+Available, but playing before or after round 6: [Emma Morris(B)(10), Morgyn Benstead(A)(5), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 7
@@ -108,8 +108,8 @@ Pitch 1
 Wrackspurts vs Sydney
 HR: Matthew Partridge(A)(7)
 
-Also available for round 7: [Nicola Elizabeth Gertler(A)(1), Morgyn Benstead(A)(6), Kieran Tolley(B)(8)]
-Available before and after round 7: [Emma Morris(B)(10), Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5)]
+Also available for round 7: [Morgyn Benstead(A)(5), Nicola Elizabeth Gertler(A)(5), Kieran Tolley(B)(8)]
+Available, but playing before or after round 7: [Eva Alexandra Anastasia(B)(1), Emma Morris(B)(10), James Putin(B)(3), Minh Diep(A)(6)]
 
 ---------------
 Round: 8
@@ -117,15 +117,15 @@ Round: 8
 Round 8
 Pitch 0
 UNSW vs Basilisks
-HR: James Putin(B)(4)
+HR: James Putin(B)(3)
 
 Round 8
 Pitch 1
 Perth vs Manticores
 HR: Matthew Partridge(A)(7)
 
-Also available for round 8: [Nicola Elizabeth Gertler(A)(1)]
-Available before and after round 8: [Morgyn Benstead(A)(6), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Also available for round 8: [Nicola Elizabeth Gertler(A)(5)]
+Available, but playing before or after round 8: [Morgyn Benstead(A)(5), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 9
@@ -141,7 +141,7 @@ Macquarie vs Newcastle
 HR: Christian Barquin(B)(9)
 
 Also available for round 9: []
-Available before and after round 9: [Nicola Elizabeth Gertler(A)(1), Emma Morris(B)(10), Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Matthew Partridge(A)(7)]
+Available, but playing before or after round 9: [Eva Alexandra Anastasia(B)(1), Emma Morris(B)(10), James Putin(B)(3), Nicola Elizabeth Gertler(A)(5), Minh Diep(A)(6), Matthew Partridge(A)(7)]
 
 ---------------
 Round: 10
@@ -149,15 +149,15 @@ Round: 10
 Round 10
 Pitch 0
 Muggles vs Wollongong
-HR: Eva Alexandra Anastasia(B)(5)
+HR: Eva Alexandra Anastasia(B)(1)
 
 Round 10
 Pitch 1
 Sydney vs UWS
-HR: Minh Diep(A)(2)
+HR: Minh Diep(A)(6)
 
 Also available for round 10: []
-Available before and after round 10: [Emma Morris(B)(10), Morgyn Benstead(A)(6), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 10: [Emma Morris(B)(10), Morgyn Benstead(A)(5), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 11
@@ -165,10 +165,10 @@ Round: 11
 Round 11
 Pitch 1
 Wrackspurts vs Manticores
-HR: Morgyn Benstead(A)(6)
+HR: Morgyn Benstead(A)(5)
 
 Also available for round 11: [Kieran Tolley(B)(8)]
-Available before and after round 11: [Nicola Elizabeth Gertler(A)(1), Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Matthew Partridge(A)(7)]
+Available, but playing before or after round 11: [Eva Alexandra Anastasia(B)(1), James Putin(B)(3), Nicola Elizabeth Gertler(A)(5), Minh Diep(A)(6), Matthew Partridge(A)(7)]
 
 ---------------
 Round: 12
@@ -176,7 +176,7 @@ Round: 12
 Round 12
 Pitch 0
 UNSW vs UTS
-HR: James Putin(B)(4)
+HR: James Putin(B)(3)
 
 Round 12
 Pitch 1
@@ -184,7 +184,7 @@ Perth vs Newcastle
 HR: 
 
 Also available for round 12: []
-Available before and after round 12: [Nicola Elizabeth Gertler(A)(1), Emma Morris(B)(10), Morgyn Benstead(A)(6), Matthew Partridge(A)(7), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 12: [Emma Morris(B)(10), Morgyn Benstead(A)(5), Nicola Elizabeth Gertler(A)(5), Matthew Partridge(A)(7), Kieran Tolley(B)(8), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 13
@@ -200,7 +200,7 @@ Sydney vs Macquarie
 HR: 
 
 Also available for round 13: []
-Available before and after round 13: [Minh Diep(A)(2), James Putin(B)(4), Eva Alexandra Anastasia(B)(5), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 13: [Eva Alexandra Anastasia(B)(1), James Putin(B)(3), Minh Diep(A)(6), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 14
@@ -208,10 +208,10 @@ Round: 14
 Round 14
 Pitch 1
 Wrackspurts vs UWS
-HR: Minh Diep(A)(2)
+HR: Minh Diep(A)(6)
 
-Also available for round 14: []
-Available before and after round 14: [Nicola Elizabeth Gertler(A)(1), Emma Morris(B)(10), Morgyn Benstead(A)(6), Matthew Partridge(A)(7), Kieran Tolley(B)(8)]
+Also available for round 14: [Eva Alexandra Anastasia(B)(1)]
+Available, but playing before or after round 14: [Emma Morris(B)(10), Morgyn Benstead(A)(5), Nicola Elizabeth Gertler(A)(5), Matthew Partridge(A)(7), Kieran Tolley(B)(8)]
 
 ---------------
 Round: 15
@@ -224,10 +224,10 @@ HR: Kieran Tolley(B)(8)
 Round 15
 Pitch 1
 Manticores vs Newcastle
-HR: Morgyn Benstead(A)(6)
+HR: Minh Diep(A)(6)
 
-Also available for round 15: [Nicola Elizabeth Gertler(A)(1), Minh Diep(A)(2), Eva Alexandra Anastasia(B)(5)]
-Available before and after round 15: [James Putin(B)(4), Christian Barquin(B)(9), Stephen Butler(B)(9)]
+Also available for round 15: [Eva Alexandra Anastasia(B)(1), Morgyn Benstead(A)(5), Nicola Elizabeth Gertler(A)(5)]
+Available, but playing before or after round 15: [James Putin(B)(3), Christian Barquin(B)(9), Stephen Butler(B)(9)]
 
 1:1 is invalid
 4:1 is invalid

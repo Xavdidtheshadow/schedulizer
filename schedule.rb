@@ -147,7 +147,7 @@ class Schedule
       end
       # puts "---------------"
       puts "Also available for round #{round}: #{@possibilities[round]}"
-      puts "Available before and after round #{round}: #{@wide[round]}"
+      puts "Available, but playing before or after round #{round}: #{@wide[round]}"
       # puts "---------------"
       puts ''
     end
