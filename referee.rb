@@ -25,7 +25,7 @@ class Referee
 
   # used for puts array of refs?!
   def inspect
-    "#{@name}(#{@team})(#{@stars})"
+    "#{@name}(#{@pool})(#{@stars})"
   end
 
   # used for puts game
