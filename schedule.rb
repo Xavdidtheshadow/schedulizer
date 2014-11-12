@@ -6,12 +6,16 @@ require 'pp'
 
 class Schedule
   def initialize
+    @teams = {}
     @games = []
     @refs = []
     @possibilities = {}
+    @wide = {}
     @fname = 'au'
+
     read_games
     read_refs
+    read_teams
   end
 
   def read_games
@@ -45,22 +49,18 @@ class Schedule
       # if line.size == 3
         # r = Referee.new(line[0],line[1],line[2])
       # else
-      r = Referee.new(line[0],line[1])
+      r = Referee.new(line[0],line[1],line[2])
       # end
       @refs << r
     end
     # puts "Read in #{@refs.size} referees"
   end
 
-  def print_games
-    @num_rounds.times do |round|
-      puts "---------------"
-      puts "Round: #{round}"
-      puts "---------------"
-      @games[round].each do |g|
-        puts g
-        # find_refs(round, g)
-      end
+  def read_teams
+    f = open("#{@fname}_teams.txt")
+    f.each do |line|
+      line = line.chomp.split('|')
+      @teams[line[0]] = line[1]
     end
   end
 
@@ -94,8 +94,13 @@ class Schedule
       end
 
       @possibilities[round] -= wide
+      @wide[round] = wide
+
       @possibilities[round].sort_by! {|ref| [ref.pool == "X" ? 0 : 1,ref.stars,ref.name]}
+      @wide[round].sort_by! {|ref| [ref.pool == "X" ? 0 : 1,ref.stars,ref.name]}
     end
+    # pp @possibilities
+    # pp @wide
   end
 
   def assign_refs
@@ -129,17 +134,23 @@ class Schedule
         end
       end
       @possibilities[round].map{|r| r.streak = 0}
+    end
+  end
 
+  def print_games
+    @num_rounds.times do |round|
       puts "---------------"
       puts "Round: #{round}"
-      puts "available for round #{round}: #{@possibilities[round]}"
       puts "---------------"
-
       @games[round].each do |g|
         puts g
         # find_refs(round, g)
       end
-
+      # puts "---------------"
+      puts "Also available for round #{round}: #{@possibilities[round]}"
+      puts "Available before and after round #{round}: #{@wide[round]}"
+      puts "---------------"
+      puts ''
     end
   end
 
@@ -151,9 +162,5 @@ class Schedule
         end
       end
     end
-  end
-
-  def score_refs
-
   end
 end

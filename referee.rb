@@ -5,7 +5,7 @@ class Referee
   attr_accessor :streak
   attr_accessor :pool #char
 
-  def initialize(team, name)
+  def initialize(team, name, stars)
     # puts 'New referee!'
     # call to refdevelopment.com/info/ID
     # response = open('')
@@ -13,7 +13,8 @@ class Referee
     # @team = response['team']
     @name = name
     @team = team
-    @stars = rand(1..10)
+    # this is a str so that it matches what's read in from the file; could all be ints too, as long as they match
+    @stars = stars || rand(1..6).to_s
     @streak = 0
     @pool = @team[0]
     # mongo query for stars

@@ -7,11 +7,11 @@ class Game
   attr_accessor :ar1
   attr_accessor :ar2
 
-
   def initialize(a, b)
     @team_a = a
     @team_b = b
     @pool = @team_a[0]
+    @hr = "None"
     # could maybe take pitch info - need to make a spec
   end
 

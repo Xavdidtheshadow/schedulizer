@@ -1,0 +1,13 @@
+AB|UNSW
+AC|Muggles
+AD|Basilisks
+AE|Nargles
+AF|Wollongong
+AG|UTS
+BA|Wrackspurts
+BB|Perth
+BC|Sydney
+BD|Manticores
+BE|Macquarie
+BF|UWS
+BG|Newcastle
