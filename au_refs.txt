@@ -2,9 +2,9 @@ AB|Minh Diep
 AC|Matthew Partridge|7
 AC|Nicola Elizabeth Gertler
 AE|Morgyn Benstead
-BA|Kieran Tolley|8
+BA|Christian Barquin|9
+BA|Stephen Butler|9
 BB|Eva Alexandra Anastasia
 BD|Emma Morris|10
-BE|Christian Barquin|9
-BE|Stephen Butler|9
+BE|Kieran Tolley|8
 BF|James Putin

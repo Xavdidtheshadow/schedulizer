@@ -13,15 +13,14 @@ class Schedule
     @wide = {}
     @fname = 'au'
 
+    read_teams
     read_games
     read_refs
-    read_teams
   end
 
   def read_games
     f = open("#{@fname}_games.txt")
     round = 0
-    pitch = 0
     round_games = []
     f.each do |line|
       # this is too flimsy
@@ -29,14 +28,13 @@ class Schedule
         line = line.chomp.split('|')
         g = Game.new(line[0], line[1])
         g.round = round
-        g.pitch = pitch
+        g.team_a_name = @teams[g.team_a]
+        g.team_b_name = @teams[g.team_b]
         round_games << g
-        pitch += 1
       else
         @games << round_games
         round_games = []
         round += 1
-        pitch = 0
       end
     end
     @num_rounds = round
@@ -50,6 +48,7 @@ class Schedule
         # r = Referee.new(line[0],line[1],line[2])
       # else
       r = Referee.new(line[0],line[1],line[2])
+      r.team_name = @teams[r.team]
       # end
       @refs << r
     end
@@ -149,7 +148,7 @@ class Schedule
       # puts "---------------"
       puts "Also available for round #{round}: #{@possibilities[round]}"
       puts "Available before and after round #{round}: #{@wide[round]}"
-      puts "---------------"
+      # puts "---------------"
       puts ''
     end
   end

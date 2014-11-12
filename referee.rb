@@ -1,6 +1,7 @@
 class Referee
   attr_accessor :name
   attr_accessor :team
+  attr_accessor :team_name
   attr_accessor :stars
   attr_accessor :streak
   attr_accessor :pool #char
@@ -29,7 +30,7 @@ class Referee
 
   # used for puts game
   def to_s
-    "#{@name}(#{@team})(#{@stars})"
+    "#{@name}(#{@pool})(#{@stars})"
   end
 
   def <=>(o)

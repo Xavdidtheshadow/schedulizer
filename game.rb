@@ -6,12 +6,16 @@ class Game
   attr_accessor :sr
   attr_accessor :ar1
   attr_accessor :ar2
+  attr_accessor :team_a
+  attr_accessor :team_a_name
+  attr_accessor :team_b
+  attr_accessor :team_b_name
 
   def initialize(a, b)
     @team_a = a
     @team_b = b
     @pool = @team_a[0]
-    @hr = "None"
+    @pitch = ['A','B','C'].index(@pool)
     # could maybe take pitch info - need to make a spec
   end
 
@@ -24,6 +28,6 @@ class Game
   end
 
   def to_s
-    "Round #{@round}\nPitch #{@pitch}\n#{@team_a} vs #{@team_b}\nHR: #{@hr}\n\n"
+    "Round #{@round}\nPitch #{@pitch}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\n\n"
   end
 end
