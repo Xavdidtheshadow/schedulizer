@@ -5,8 +5,11 @@ class Referee
   attr_accessor :stars
   attr_accessor :streak
   attr_accessor :pool #char
+  attr_accessor :hr
+  attr_accessor :sr
+  attr_accessor :ar
 
-  def initialize(team, name, stars)
+  def initialize(team, name, cert, stars)
     # puts 'New referee!'
     # call to refdevelopment.com/info/ID
     # response = open('')
@@ -18,6 +21,7 @@ class Referee
     @stars = stars || rand(1..6).to_s
     @streak = 0
     @pool = @team[0]
+    certify(cert)
     # mongo query for stars
     # db.stars.find({"to": id}).to_a.size
     # need something about cert level
@@ -35,5 +39,11 @@ class Referee
 
   def <=>(o)
     @stars <=> o.stars
+  end
+
+  def certify(s)
+    @hr = s['h'] ? true : false
+    @sr = s['s'] ? true : false
+    @ar = s['a'] ? true : false
   end
 end

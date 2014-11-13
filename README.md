@@ -4,9 +4,7 @@ Referee scheduling at its finest
 
 ## Scheduling Procedure
 
-### Wide Mode
-Similar to World Cup, refs are considered unavailable if their team plays before, during, or after the given timeslot. If this option is disabled, a ref is only considered unavailable if their team plays during the same timeslot. This is enabled by default.
-
+Refs for each round are sorted worst to best, so pick from the end if you're doing it manually. 
 
 ### Priorities
 To be considered available, a ref must not be playing during that round and they must not ref more than 3 games in a row. Refs are then selected for games based on a priority queue sorted by the following criteria (in this order):
@@ -14,7 +12,6 @@ To be considered available, a ref must not be playing during that round and they
 * Pool
 * Associated with a team?
 * Stars
-
 
 See below for explanations of the criteria.
 
@@ -28,6 +25,10 @@ As free agents, unassociated referees can fill any gaps. Therefore, the system p
 Ideally, all refs are IRDP certified and the system simply ranks them according to their star rating.
 
 In the event that the IRDP system doesn't have enough information to rank all participating refs (as is the current case with Australia), starred refs will be prioritized (in order) above non-starred refs and all others will be sorted randomly.
+
+## Options
+### Wide Mode
+Similar to World Cup, refs are considered unavailable if their team plays before, during, or after the given timeslot. If this option is disabled, a ref is only considered unavailable if their team plays during the same timeslot. This is enabled by default.
 
 ## Examples
 	Game 1  

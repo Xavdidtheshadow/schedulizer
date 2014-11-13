@@ -44,12 +44,8 @@ class Schedule
     f = open("#{@fname}_refs.txt")
     f.each do |line|
       line = line.chomp.split('|')
-      # if line.size == 3
-        # r = Referee.new(line[0],line[1],line[2])
-      # else
-      r = Referee.new(line[0],line[1],line[2])
+      r = Referee.new(line[0],line[1],line[2], line[3])
       r.team_name = @teams[r.team]
-      # end
       @refs << r
     end
     # puts "Read in #{@refs.size} referees"
