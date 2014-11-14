@@ -41,3 +41,17 @@ BA|BF
 AD|AG
 BD|BG
 -----
+AB|AF
+BB|BF
+-----
+BE|BA
+-----
+AC|AG
+BC|BG
+-----
+AD|AF
+BD|BF
+-----
+AB|AE
+BB|BE
+-----

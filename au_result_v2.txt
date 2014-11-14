@@ -4,13 +4,14 @@ Round: 0
 Round 0
 Pitch 1
 Wrackspurts vs Perth
-HR: Minh Diep(A)(4)
+HR: Minh Diep(A)(6)
 SR: Jacob Fleming(A)(9)
-AR: Rajtilak Kapoor(A)(8)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Brandon Heldt(A)(8)
 
-Also available for round 0: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Morgan Thorndyke(B)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Morgyn Benstead(A)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Aman Nalli(A)(4), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Joshua Pinnuck(A)(4), Liam Dawson(B)(4), Merryn Christian(A)(4), Morgan Legg(A)(4), Ana Barciela(B)(5), Blake Huthnance(B)(5), Christopher Rock(A)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Brandon Heldt(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Thomas Russell(B)(9)]
+Also available for round 0: [Lachlan Fraser(X)(3), Allison Hore(B)(1), Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Morgan Thorndyke(B)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Morgyn Benstead(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Morgan Legg(A)(6), Rayan Calimlim(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Thomas Russell(B)(9)]
 
-Available, but playing before or after round 0: [Lachlan Chisholm(B)(1), Emma Morris(B)(10), Erin Pratt(A)(3), Kristeen Wong(A)(4), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
+Available, but playing before or after round 0: [Erin Pratt(A)(1), Kristie Kuhn(B)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Meg Harding(B)(4), Nathan Morton(A)(4), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
 
 ---------------
 Round: 1
@@ -18,20 +19,22 @@ Round: 1
 Round 1
 Pitch 0
 Muggles vs Basilisks
-HR: Minh Diep(A)(4)
+HR: Minh Diep(A)(6)
 SR: Thomas Russell(B)(9)
-AR: Matt Ingram(B)(9)
+AR1: Matt Ingram(B)(9)
+AR2: Joel Murphy(B)(8)
 
 Round 1
 Pitch 1
 Sydney vs Manticores
 HR: 
-SR: John Ilacqua(A)(6)
-AR: Rajtilak Kapoor(A)(8)
+SR: Rayan Calimlim(A)(6)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Michael Thomson(A)(6)
 
-Also available for round 1: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Liam Dawson(B)(4), Christopher Rock(A)(5), Emily Borghi(A)(5), Leigh Morrell(A)(6), Michael Thomson(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8)]
+Also available for round 1: [Lachlan Fraser(X)(3), Faruque Ahmed(A)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), James Mortensen(B)(8), Joshua Naismith(B)(8)]
 
-Available, but playing before or after round 1: [Ezekiel Azib(A)(1), James Putin(B)(1), Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Michael Palmisano(B)(2), Morgyn Benstead(A)(2), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Liam McCoppin(B)(4), Merryn Christian(A)(4), Morgan Legg(A)(4), Ana Barciela(B)(5), Blake Huthnance(B)(5), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Kieran Tolley(B)(8), Luke Stampalia(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Maria Wizbicki(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 1: [Allison Hore(B)(1), Ezekiel Azib(A)(1), Michael Palmisano(B)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Morgan Thorndyke(B)(3), Blake Huthnance(B)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Liam McCoppin(B)(4), Morgyn Benstead(A)(5), Aman Nalli(A)(6), Ana Barciela(B)(6), Morgan Legg(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Kieran Tolley(B)(8), Luke Stampalia(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Maria Wizbicki(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 2
@@ -40,19 +43,21 @@ Round 2
 Pitch 0
 Nargles vs Wollongong
 HR: Eva Alexandra Anastasia(B)(8)
-SR: Michael Palmisano(B)(2)
-AR: Luke Stampalia(B)(8)
+SR: Michael Palmisano(B)(1)
+AR1: Luke Stampalia(B)(8)
+AR2: Lachlan Fraser(X)(3)
 
 Round 2
 Pitch 1
 Macquarie vs UWS
 HR: 
-SR: John Ilacqua(A)(6)
-AR: Rajtilak Kapoor(A)(8)
+SR: Rayan Calimlim(A)(6)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Minh Diep(A)(6)
 
-Also available for round 2: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Minh Diep(A)(4), Christopher Rock(A)(5), Emily Borghi(A)(5), Leigh Morrell(A)(6), Michael Thomson(A)(6)]
+Also available for round 2: [Faruque Ahmed(A)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Christina Farrelly(A)(6), Elisabeth Kastanias(A)(6), Michael Thomson(A)(6)]
 
-Available, but playing before or after round 2: [Lachlan Chisholm(B)(1), Emma Morris(B)(10), Erin Pratt(A)(3), Desany Phanoraj(B)(4), Kristeen Wong(A)(4), Liam Dawson(B)(4), Liam McCoppin(B)(4), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 2: [Erin Pratt(A)(1), Kristie Kuhn(B)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Liam McCoppin(B)(4), Meg Harding(B)(4), Nathan Morton(A)(4), Desany Phanoraj(B)(6), Liam Dawson(B)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 3
@@ -62,11 +67,12 @@ Pitch 1
 Wrackspurts vs Newcastle
 HR: Emma Morris(B)(10)
 SR: Genevieve Gibson(A)(8)
-AR: Adrian Marshall(A)(8)
+AR1: Adrian Marshall(A)(8)
+AR2: Rayan Calimlim(A)(6)
 
-Also available for round 3: [Lachlan Fraser(X)(3), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Rayan Calimlim(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Cameron Mitchell(B)(5), Emily Borghi(A)(5), Meg Harding(B)(5), John Ilacqua(A)(6), Kassi Grace(A)(6), Katherine Hunter(B)(8), Kara Spilstead(B)(9)]
+Also available for round 3: [Lachlan Fraser(X)(3), Faruque Ahmed(A)(1), Matt Blissenden(A)(1), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Meg Harding(B)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Christina Farrelly(A)(6), Elisabeth Kastanias(A)(6), Katherine Hunter(B)(8), Kara Spilstead(B)(9)]
 
-Available, but playing before or after round 3: [Chiani Sharma(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Michael Palmisano(B)(2), Morgyn Benstead(A)(2), Phillip Van Kerk Oerle(A)(2), Erin Pratt(A)(3), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Merryn Christian(A)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Ana Barciela(B)(5), Blake Huthnance(B)(5), Christopher Rock(A)(5), Kristie Kuhn(B)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Matthew Armstrong(A)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
+Available, but playing before or after round 3: [Allison Hore(B)(1), Erin Pratt(A)(1), Ezekiel Azib(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Blake Huthnance(B)(4), Chiani Sharma(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Nathan Morton(A)(4), Christopher Rock(A)(5), Morgyn Benstead(A)(5), Aman Nalli(A)(6), Ana Barciela(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Matthew Armstrong(A)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
 
 ---------------
 Round: 4
@@ -74,20 +80,22 @@ Round: 4
 Round 4
 Pitch 0
 UNSW vs Muggles
-HR: James Putin(B)(1)
+HR: James Putin(B)(4)
 SR: Hannah Monty(B)(9)
-AR: Bianca Connell(B)(9)
+AR1: Bianca Connell(B)(9)
+AR2: Stephen Butler(B)(8)
 
 Round 4
 Pitch 1
 Perth vs Sydney
 HR: 
 SR: Jacob Fleming(A)(9)
-AR: Brandon Heldt(A)(8)
+AR1: Brandon Heldt(A)(8)
+AR2: Morgan Legg(A)(6)
 
-Also available for round 4: [Lachlan Fraser(X)(3), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Ezekiel Azib(A)(1), Rayan Calimlim(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Aman Nalli(A)(4), Angelina Pasusuwan(A)(4), Joshua Pinnuck(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Stephen Butler(B)(8)]
+Also available for round 4: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Matt Blissenden(A)(1), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Emily Borghi(A)(4), Joshua Pinnuck(A)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Christina Farrelly(A)(6), Elisabeth Kastanias(A)(6), Rayan Calimlim(A)(6)]
 
-Available, but playing before or after round 4: [Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Allison Hore(B)(2), Morgyn Benstead(A)(2), Desany Phanoraj(B)(4), Liam Dawson(B)(4), Liam McCoppin(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 4: [Allison Hore(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Morgan Thorndyke(B)(3), Liam McCoppin(B)(4), Meg Harding(B)(4), Morgyn Benstead(A)(5), Ana Barciela(B)(6), Desany Phanoraj(B)(6), Liam Dawson(B)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 5
@@ -97,18 +105,20 @@ Pitch 0
 Basilisks vs Nargles
 HR: Stephen Butler(B)(9)
 SR: Lachlan Fraser(X)(3)
-AR: Natalie Benedykt(B)(8)
+AR1: Natalie Benedykt(B)(8)
+AR2: 
 
 Round 5
 Pitch 1
 Manticores vs Macquarie
 HR: Christian Barquin(B)(9)
 SR: 
-AR: Liam McCoppin(B)(4)
+AR1: Liam McCoppin(B)(4)
+AR2: 
 
 Also available for round 5: []
 
-Available, but playing before or after round 5: [Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Lachlan Chisholm(B)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Erin Pratt(A)(3), Aman Nalli(A)(4), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Liam Dawson(B)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Christopher Rock(A)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Kristie Kuhn(B)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 5: [Erin Pratt(A)(1), Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Lachlan Chisholm(B)(2), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Rayan Calimlim(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 6
@@ -117,19 +127,21 @@ Round 6
 Pitch 0
 Wollongong vs UTS
 HR: Eva Alexandra Anastasia(B)(8)
-SR: Michael Palmisano(B)(2)
-AR: Luke Stampalia(B)(8)
+SR: Michael Palmisano(B)(1)
+AR1: Luke Stampalia(B)(8)
+AR2: Lachlan Fraser(X)(3)
 
 Round 6
 Pitch 1
 UWS vs Newcastle
 HR: Nicola Elizabeth Gertler(A)(9)
 SR: Matthew Partridge(A)(9)
-AR: Luke Nickholds(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Rajtilak Kapoor(A)(8)
 
-Also available for round 6: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(2), Erin Pratt(A)(3), Kristeen Wong(A)(4), Minh Diep(A)(4), Christopher Rock(A)(5), Leigh Morrell(A)(6), Michael Thomson(A)(6), Nathan Morton(A)(6), Georgia Tredrea(A)(8), Rajtilak Kapoor(A)(8)]
+Also available for round 6: [Erin Pratt(A)(1), Leigh Morrell(A)(1), Stephanie Xu(A)(1), Kristeen Wong(A)(3), Phillip Van Kerk Oerle(A)(3), Chiani Sharma(A)(4), Nathan Morton(A)(4), Christopher Rock(A)(5), Michael Thomson(A)(6), Minh Diep(A)(6), Georgia Tredrea(A)(8)]
 
-Available, but playing before or after round 6: [Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Allison Hore(B)(2), Morgyn Benstead(A)(2), Liam McCoppin(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 6: [Allison Hore(B)(1), Kristie Kuhn(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Liam McCoppin(B)(4), Meg Harding(B)(4), Morgyn Benstead(A)(5), Ana Barciela(B)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 7
@@ -139,11 +151,12 @@ Pitch 1
 Wrackspurts vs Sydney
 HR: Nicola Elizabeth Gertler(A)(9)
 SR: Matthew Partridge(A)(9)
-AR: Luke Nickholds(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Georgia Tredrea(A)(8)
 
-Also available for round 7: [Lachlan Fraser(X)(3), Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Morgyn Benstead(A)(2), Erin Pratt(A)(3), Kristeen Wong(A)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Nathan Morton(A)(6), Georgia Tredrea(A)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Maria Wizbicki(B)(9)]
+Also available for round 7: [Lachlan Fraser(X)(3), Allison Hore(B)(1), Erin Pratt(A)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Nathan Morton(A)(4), Morgyn Benstead(A)(5), Ana Barciela(B)(6), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Maria Wizbicki(B)(9)]
 
-Available, but playing before or after round 7: [Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Emma Morris(B)(10), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Aman Nalli(A)(4), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Joshua Pinnuck(A)(4), Liam Dawson(B)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Cameron Mitchell(B)(5), Christopher Rock(A)(5), Emily Borghi(A)(5), Meg Harding(B)(5), John Ilacqua(A)(6), Kassi Grace(A)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Genevieve Gibson(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9), Matt Ingram(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 7: [Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Emma Morris(B)(10), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Meg Harding(B)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Rayan Calimlim(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Genevieve Gibson(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9), Matt Ingram(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 8
@@ -151,20 +164,22 @@ Round: 8
 Round 8
 Pitch 0
 UNSW vs Basilisks
-HR: James Putin(B)(1)
+HR: James Putin(B)(4)
 SR: Hannah Monty(B)(9)
-AR: Bianca Connell(B)(9)
+AR1: Bianca Connell(B)(9)
+AR2: Stephen Butler(B)(8)
 
 Round 8
 Pitch 1
 Perth vs Manticores
 HR: Nicola Elizabeth Gertler(A)(9)
 SR: Matthew Partridge(A)(9)
-AR: Luke Nickholds(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Jacob Fleming(A)(9)
 
-Also available for round 8: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Erin Pratt(A)(3), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Nathan Morton(A)(6), Brandon Heldt(A)(8), Georgia Tredrea(A)(8), Stephen Butler(B)(8), Jacob Fleming(A)(9)]
+Also available for round 8: [Lachlan Fraser(X)(3), Erin Pratt(A)(1), Ezekiel Azib(A)(1), Kristeen Wong(A)(3), Blake Huthnance(B)(4), Joshua Pinnuck(A)(4), Nathan Morton(A)(4), Aman Nalli(A)(6), Morgan Legg(A)(6), Brandon Heldt(A)(8), Georgia Tredrea(A)(8)]
 
-Available, but playing before or after round 8: [Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Rayan Calimlim(A)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Morgyn Benstead(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Liam Dawson(B)(4), Liam McCoppin(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 8: [Allison Hore(B)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Matt Blissenden(A)(1), Zachary Neulinger(A)(1), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Liam McCoppin(B)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Morgyn Benstead(A)(5), Poya Heidari-shahi(A)(5), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Rayan Calimlim(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 9
@@ -174,18 +189,20 @@ Pitch 0
 Nargles vs UTS
 HR: Stephen Butler(B)(9)
 SR: Lachlan Fraser(X)(3)
-AR: Natalie Benedykt(B)(8)
+AR1: Natalie Benedykt(B)(8)
+AR2: 
 
 Round 9
 Pitch 1
 Macquarie vs Newcastle
 HR: Christian Barquin(B)(9)
 SR: 
-AR: Liam McCoppin(B)(4)
+AR1: Liam McCoppin(B)(4)
+AR2: 
 
 Also available for round 9: []
 
-Available, but playing before or after round 9: [Chiani Sharma(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Lachlan Chisholm(B)(1), Stephanie Xu(A)(1), Emma Morris(B)(10), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Erin Pratt(A)(3), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Cameron Mitchell(B)(5), Christopher Rock(A)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Kristie Kuhn(B)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
+Available, but playing before or after round 9: [Erin Pratt(A)(1), Ezekiel Azib(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Blake Huthnance(B)(4), Chiani Sharma(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Meg Harding(B)(4), Nathan Morton(A)(4), Christopher Rock(A)(5), Aman Nalli(A)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9)]
 
 ---------------
 Round: 10
@@ -193,20 +210,22 @@ Round: 10
 Round 10
 Pitch 0
 Muggles vs Wollongong
-HR: Minh Diep(A)(4)
-SR: Michael Palmisano(B)(2)
-AR: Luke Stampalia(B)(8)
+HR: Minh Diep(A)(6)
+SR: Michael Palmisano(B)(1)
+AR1: Lachlan Fraser(X)(3)
+AR2: Luke Stampalia(B)(8)
 
 Round 10
 Pitch 1
 Sydney vs UWS
 HR: Eva Alexandra Anastasia(B)(8)
 SR: Genevieve Gibson(A)(8)
-AR: Rajtilak Kapoor(A)(8)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Adrian Marshall(A)(8)
 
-Also available for round 10: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(2), Christopher Rock(A)(5), Kassi Grace(A)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Adrian Marshall(A)(8)]
+Also available for round 10: [Leigh Morrell(A)(1), Stephanie Xu(A)(1), Kassi Grace(A)(3), Phillip Van Kerk Oerle(A)(3), Chiani Sharma(A)(4), Christopher Rock(A)(5), Michael Thomson(A)(6)]
 
-Available, but playing before or after round 10: [Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Morgan Thorndyke(B)(1), Rayan Calimlim(A)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Allison Hore(B)(2), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Morgyn Benstead(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Liam Dawson(B)(4), Liam McCoppin(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Cameron Mitchell(B)(5), Emily Borghi(A)(5), Meg Harding(B)(5), John Ilacqua(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 10: [Allison Hore(B)(1), Faruque Ahmed(A)(1), Matt Blissenden(A)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Morgan Thorndyke(B)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Liam McCoppin(B)(4), Meg Harding(B)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Morgyn Benstead(A)(5), Poya Heidari-shahi(A)(5), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Rayan Calimlim(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 11
@@ -214,13 +233,14 @@ Round: 11
 Round 11
 Pitch 1
 Wrackspurts vs Manticores
-HR: Morgyn Benstead(A)(2)
+HR: Morgyn Benstead(A)(5)
 SR: Matthew Armstrong(A)(8)
-AR: Genevieve Gibson(A)(8)
+AR1: Genevieve Gibson(A)(8)
+AR2: Adrian Marshall(A)(8)
 
-Also available for round 11: [Lachlan Fraser(X)(3), Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Merryn Christian(A)(4), Ana Barciela(B)(5), Kassi Grace(A)(6), Adrian Marshall(A)(8), Kieran Tolley(B)(8), Maria Wizbicki(B)(9)]
+Also available for round 11: [Lachlan Fraser(X)(3), Allison Hore(B)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Kassi Grace(A)(3), Morgan Thorndyke(B)(3), Ana Barciela(B)(6), Kieran Tolley(B)(8), Maria Wizbicki(B)(9)]
 
-Available, but playing before or after round 11: [Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Ezekiel Azib(A)(1), James Putin(B)(1), Lachlan Chisholm(B)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Erin Pratt(A)(3), Aman Nalli(A)(4), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Liam Dawson(B)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Christopher Rock(A)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Kristie Kuhn(B)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 11: [Erin Pratt(A)(1), Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Lachlan Chisholm(B)(2), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Rayan Calimlim(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 12
@@ -230,18 +250,20 @@ Pitch 0
 UNSW vs UTS
 HR: 
 SR: Hannah Monty(B)(9)
-AR: Stephen Butler(B)(8)
+AR1: James Putin(B)(4)
+AR2: Bianca Connell(B)(9)
 
 Round 12
 Pitch 1
 Perth vs Newcastle
 HR: 
 SR: Jacob Fleming(A)(9)
-AR: Genevieve Gibson(A)(8)
+AR1: Genevieve Gibson(A)(8)
+AR2: Brandon Heldt(A)(8)
 
-Also available for round 12: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), James Putin(B)(1), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Morgan Legg(A)(4), Blake Huthnance(B)(5), Kassi Grace(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Bianca Connell(B)(9)]
+Also available for round 12: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Kassi Grace(A)(3), Blake Huthnance(B)(4), Joshua Pinnuck(A)(4), Aman Nalli(A)(6), Morgan Legg(A)(6), Adrian Marshall(A)(8), Stephen Butler(B)(8)]
 
-Available, but playing before or after round 12: [Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Allison Hore(B)(2), Morgyn Benstead(A)(2), Erin Pratt(A)(3), Kristeen Wong(A)(4), Liam McCoppin(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 12: [Allison Hore(B)(1), Erin Pratt(A)(1), Kristie Kuhn(B)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Liam McCoppin(B)(4), Meg Harding(B)(4), Nathan Morton(A)(4), Morgyn Benstead(A)(5), Ana Barciela(B)(6), Georgia Tredrea(A)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Stephen Butler(B)(9)]
 
 ---------------
 Round: 13
@@ -251,18 +273,20 @@ Pitch 0
 Muggles vs Nargles
 HR: Emma Morris(B)(10)
 SR: Katherine Hunter(B)(8)
-AR: Kara Spilstead(B)(9)
+AR1: Kara Spilstead(B)(9)
+AR2: Meg Harding(B)(4)
 
 Round 13
 Pitch 1
 Sydney vs Macquarie
 HR: 
 SR: Jacob Fleming(A)(9)
-AR: Brandon Heldt(A)(8)
+AR1: Genevieve Gibson(A)(8)
+AR2: Brandon Heldt(A)(8)
 
-Also available for round 13: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Morgan Legg(A)(4), Cameron Mitchell(B)(5), Meg Harding(B)(5), Kassi Grace(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8)]
+Also available for round 13: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Joshua Pinnuck(A)(4), Aman Nalli(A)(6), Morgan Legg(A)(6), Adrian Marshall(A)(8)]
 
-Available, but playing before or after round 13: [Chiani Sharma(A)(1), Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), James Putin(B)(1), Rayan Calimlim(A)(1), Stephanie Xu(A)(1), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Liam Dawson(B)(4), Liam McCoppin(B)(4), Minh Diep(A)(4), Blake Huthnance(B)(5), Christopher Rock(A)(5), Emily Borghi(A)(5), John Ilacqua(A)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Eva Alexandra Anastasia(B)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Stampalia(B)(8), Natalie Benedykt(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 13: [Faruque Ahmed(A)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Liam McCoppin(B)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Rayan Calimlim(A)(6), Eva Alexandra Anastasia(B)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Stampalia(B)(8), Natalie Benedykt(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 14
@@ -270,13 +294,14 @@ Round: 14
 Round 14
 Pitch 1
 Wrackspurts vs UWS
-HR: Minh Diep(A)(4)
-SR: Christopher Rock(A)(5)
-AR: Jacob Fleming(A)(9)
+HR: Minh Diep(A)(6)
+SR: Jacob Fleming(A)(9)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Brandon Heldt(A)(8)
 
-Also available for round 14: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Ezekiel Azib(A)(1), Stephanie Xu(A)(1), Michael Palmisano(B)(2), Phillip Van Kerk Oerle(A)(2), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Morgan Legg(A)(4), Leigh Morrell(A)(6), Michael Thomson(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8)]
+Also available for round 14: [Lachlan Fraser(X)(3), Ezekiel Azib(A)(1), Leigh Morrell(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(3), Chiani Sharma(A)(4), Joshua Pinnuck(A)(4), Christopher Rock(A)(5), Aman Nalli(A)(6), Michael Thomson(A)(6), Morgan Legg(A)(6), Eva Alexandra Anastasia(B)(8), Luke Stampalia(B)(8)]
 
-Available, but playing before or after round 14: [Christina Farrelly(A)(1), Elisabeth Kastanias(A)(1), Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Rayan Calimlim(A)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Allison Hore(B)(2), Faruque Ahmed(A)(2), Matt Blissenden(A)(2), Morgyn Benstead(A)(2), Poya Heidari-shahi(A)(2), Arthur Triantos(A)(3), Erin Pratt(A)(3), Angelina Pasusuwan(A)(4), Desany Phanoraj(B)(4), Kristeen Wong(A)(4), Liam Dawson(B)(4), Merryn Christian(A)(4), Ana Barciela(B)(5), Cameron Mitchell(B)(5), Emily Borghi(A)(5), Meg Harding(B)(5), John Ilacqua(A)(6), Kassi Grace(A)(6), Kristie Kuhn(B)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
+Available, but playing before or after round 14: [Allison Hore(B)(1), Erin Pratt(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Matt Blissenden(A)(1), Zachary Neulinger(A)(1), Emma Morris(B)(10), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Meg Harding(B)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Morgyn Benstead(A)(5), Poya Heidari-shahi(A)(5), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Rayan Calimlim(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Kara Spilstead(B)(9), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
 
 ---------------
 Round: 15
@@ -286,22 +311,136 @@ Pitch 0
 Basilisks vs UTS
 HR: Kieran Tolley(B)(8)
 SR: Maria Wizbicki(B)(9)
-AR: Luke Stampalia(B)(8)
+AR1: Luke Derrick(B)(8)
+AR2: Ana Barciela(B)(6)
 
 Round 15
 Pitch 1
 Manticores vs Newcastle
 HR: Nicola Elizabeth Gertler(A)(9)
 SR: Matthew Partridge(A)(9)
-AR: Luke Nickholds(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Georgia Tredrea(A)(8)
 
-Also available for round 15: [Lachlan Fraser(X)(3), Chiani Sharma(A)(1), Ezekiel Azib(A)(1), Lachlan Chisholm(B)(1), Morgan Thorndyke(B)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Allison Hore(B)(2), Michael Palmisano(B)(2), Morgyn Benstead(A)(2), Phillip Van Kerk Oerle(A)(2), Erin Pratt(A)(3), Aman Nalli(A)(4), Joshua Pinnuck(A)(4), Kristeen Wong(A)(4), Merryn Christian(A)(4), Minh Diep(A)(4), Morgan Legg(A)(4), Ana Barciela(B)(5), Christopher Rock(A)(5), Kristie Kuhn(B)(6), Leigh Morrell(A)(6), Michael Thomson(A)(6), Natalie Astalosh(B)(6), Nathan Morton(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), Luke Derrick(B)(8), Matthew Armstrong(A)(8), Rajtilak Kapoor(A)(8), Jacob Fleming(A)(9)]
+Also available for round 15: [Lachlan Fraser(X)(3), Allison Hore(B)(1), Erin Pratt(A)(1), Kristie Kuhn(B)(1), Zachary Neulinger(A)(1), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Nathan Morton(A)(4), Morgyn Benstead(A)(5), Matthew Armstrong(A)(8)]
 
-Available, but playing before or after round 15: [James Putin(B)(1), Liam McCoppin(B)(4), Blake Huthnance(B)(5), Natalie Benedykt(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Stephen Butler(B)(9)]
+Available, but playing before or after round 15: [Ezekiel Azib(A)(1), Leigh Morrell(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Phillip Van Kerk Oerle(A)(3), Blake Huthnance(B)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), James Putin(B)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Liam McCoppin(B)(4), Christopher Rock(A)(5), Aman Nalli(A)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Luke Stampalia(B)(8), Natalie Benedykt(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Stephen Butler(B)(9)]
+
+---------------
+Round: 16
+---------------
+Round 16
+Pitch 0
+UNSW vs Wollongong
+HR: Morgyn Benstead(A)(5)
+SR: Luke Derrick(B)(8)
+AR1: Natalie Astalosh(B)(3)
+AR2: Lachlan Chisholm(B)(2)
+
+Round 16
+Pitch 1
+Perth vs UWS
+HR: Nicola Elizabeth Gertler(A)(9)
+SR: Matthew Partridge(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Georgia Tredrea(A)(8)
+
+Also available for round 16: [Lachlan Fraser(X)(3), Erin Pratt(A)(1), Kristie Kuhn(B)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Kristeen Wong(A)(3), Nathan Morton(A)(4), Matthew Armstrong(A)(8)]
+
+Available, but playing before or after round 16: [Allison Hore(B)(1), Faruque Ahmed(A)(1), Matt Blissenden(A)(1), Emma Morris(B)(10), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Morgan Thorndyke(B)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Liam McCoppin(B)(4), Meg Harding(B)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Rayan Calimlim(A)(6), Adrian Marshall(A)(8), Genevieve Gibson(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Natalie Benedykt(B)(8), Christian Barquin(B)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Stephen Butler(B)(9), Thomas Russell(B)(9)]
+
+---------------
+Round: 17
+---------------
+Round 17
+Pitch 1
+Macquarie vs Wrackspurts
+HR: Morgyn Benstead(A)(5)
+SR: Matthew Armstrong(A)(8)
+AR1: Genevieve Gibson(A)(8)
+AR2: Adrian Marshall(A)(8)
+
+Also available for round 17: [Lachlan Fraser(X)(3), Zachary Neulinger(A)(1), Emma Morris(B)(10), Merryn Christian(A)(2), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Meg Harding(B)(4), Katherine Hunter(B)(8), Kara Spilstead(B)(9)]
+
+Available, but playing before or after round 17: [Erin Pratt(A)(1), Ezekiel Azib(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Lachlan Chisholm(B)(2), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Blake Huthnance(B)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Aman Nalli(A)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Morgan Legg(A)(6), Rayan Calimlim(A)(6), Brandon Heldt(A)(8), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Rajtilak Kapoor(A)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Luke Nickholds(A)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
+
+---------------
+Round: 18
+---------------
+Round 18
+Pitch 0
+Muggles vs UTS
+HR: Eva Alexandra Anastasia(B)(8)
+SR: Michael Palmisano(B)(1)
+AR1: Luke Stampalia(B)(8)
+AR2: Lachlan Fraser(X)(3)
+
+Round 18
+Pitch 1
+Sydney vs Newcastle
+HR: 
+SR: Matthew Armstrong(A)(8)
+AR1: Rajtilak Kapoor(A)(8)
+AR2: Minh Diep(A)(6)
+
+Also available for round 18: [Leigh Morrell(A)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Merryn Christian(A)(2), Phillip Van Kerk Oerle(A)(3), Chiani Sharma(A)(4), Christopher Rock(A)(5), Morgyn Benstead(A)(5), Michael Thomson(A)(6)]
+
+Available, but playing before or after round 18: [Allison Hore(B)(1), Ezekiel Azib(A)(1), Emma Morris(B)(10), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Morgan Thorndyke(B)(3), Blake Huthnance(B)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Liam McCoppin(B)(4), Meg Harding(B)(4), Aman Nalli(A)(6), Ana Barciela(B)(6), Morgan Legg(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Genevieve Gibson(A)(8), Katherine Hunter(B)(8), Kieran Tolley(B)(8), Natalie Benedykt(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Christian Barquin(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9), Maria Wizbicki(B)(9), Stephen Butler(B)(9)]
+
+---------------
+Round: 19
+---------------
+Round 19
+Pitch 0
+Basilisks vs Wollongong
+HR: 
+SR: Stephen Butler(B)(9)
+AR1: Christian Barquin(B)(9)
+AR2: Natalie Benedykt(B)(8)
+
+Round 19
+Pitch 1
+Manticores vs UWS
+HR: 
+SR: Lachlan Fraser(X)(3)
+AR1: 
+AR2: Liam McCoppin(B)(4)
+
+Also available for round 19: []
+
+Available, but playing before or after round 19: [Allison Hore(B)(1), Erin Pratt(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Leigh Morrell(A)(1), Matt Blissenden(A)(1), Michael Palmisano(B)(1), Stephanie Xu(A)(1), Zachary Neulinger(A)(1), Lachlan Chisholm(B)(2), Merryn Christian(A)(2), Kristeen Wong(A)(3), Morgan Thorndyke(B)(3), Natalie Astalosh(B)(3), Phillip Van Kerk Oerle(A)(3), Arthur Triantos(A)(4), Chiani Sharma(A)(4), Emily Borghi(A)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), Christopher Rock(A)(5), John Ilacqua(A)(5), Morgyn Benstead(A)(5), Poya Heidari-shahi(A)(5), Ana Barciela(B)(6), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Michael Thomson(A)(6), Minh Diep(A)(6), Rayan Calimlim(A)(6), Eva Alexandra Anastasia(B)(8), Georgia Tredrea(A)(8), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Kieran Tolley(B)(8), Luke Derrick(B)(8), Luke Stampalia(B)(8), Matthew Armstrong(A)(8), Rajtilak Kapoor(A)(8), Luke Nickholds(A)(9), Maria Wizbicki(B)(9), Matt Ingram(B)(9), Matthew Partridge(A)(9), Nicola Elizabeth Gertler(A)(9), Thomas Russell(B)(9)]
+
+---------------
+Round: 20
+---------------
+Round 20
+Pitch 0
+UNSW vs Nargles
+HR: Stephen Butler(B)(9)
+SR: Thomas Russell(B)(9)
+AR1: Matt Ingram(B)(9)
+AR2: Christian Barquin(B)(9)
+
+Round 20
+Pitch 1
+Perth vs Macquarie
+HR: Nicola Elizabeth Gertler(A)(9)
+SR: Matthew Partridge(A)(9)
+AR1: Luke Nickholds(A)(9)
+AR2: Georgia Tredrea(A)(8)
+
+Also available for round 20: [Lachlan Fraser(X)(3), Erin Pratt(A)(1), Faruque Ahmed(A)(1), Kristie Kuhn(B)(1), Matt Blissenden(A)(1), Lachlan Chisholm(B)(2), Kristeen Wong(A)(3), Natalie Astalosh(B)(3), Arthur Triantos(A)(4), Emily Borghi(A)(4), Liam McCoppin(B)(4), Nathan Morton(A)(4), Angelina Pasusuwan(A)(5), John Ilacqua(A)(5), Poya Heidari-shahi(A)(5), Christina Farrelly(A)(6), Desany Phanoraj(B)(6), Elisabeth Kastanias(A)(6), Liam Dawson(B)(6), Rayan Calimlim(A)(6), James Mortensen(B)(8), Joel Murphy(B)(8), Joshua Naismith(B)(8), Luke Derrick(B)(8), Natalie Benedykt(B)(8)]
+
+Available, but playing before or after round 20: [Ezekiel Azib(A)(1), Emma Morris(B)(10), Cameron Mitchell(B)(3), Kassi Grace(A)(3), Blake Huthnance(B)(4), James Putin(B)(4), Joshua Pinnuck(A)(4), Meg Harding(B)(4), Aman Nalli(A)(6), Morgan Legg(A)(6), Adrian Marshall(A)(8), Brandon Heldt(A)(8), Genevieve Gibson(A)(8), Katherine Hunter(B)(8), Stephen Butler(B)(8), Bianca Connell(B)(9), Hannah Monty(B)(9), Jacob Fleming(A)(9), Kara Spilstead(B)(9)]
 
 1:1 is invalid
 2:1 is invalid
 4:1 is invalid
+5:1 is invalid
+9:1 is invalid
 12:0 is invalid
 12:1 is invalid
 13:1 is invalid
+18:1 is invalid
+19:0 is invalid
+19:1 is invalid

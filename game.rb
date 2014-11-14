@@ -28,6 +28,6 @@ class Game
   end
 
   def to_s
-    "Round #{@round}\nPitch #{@pitch}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\nSR: #{@sr}\nAR: #{@ar}\n\n"
+    "Round #{@round}\nPitch #{@pitch}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\nSR: #{@sr}\nAR1: #{@ar1}\nAR2: #{@ar2}\n\n"
   end
 end

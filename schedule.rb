@@ -1,7 +1,7 @@
 require './referee'
 require './game'
 require 'pp'
-require 'pry'
+# require 'pry'
 
 # don't build this file, it doesn't do anything
 
@@ -103,10 +103,10 @@ class Schedule
     find_possibilities
     
     @num_rounds.times do |round|
-      ['hr','sr','ar'].each do |typ|
+      ['hr','sr','ar1','ar2'].each do |typ|
         @games[round].each do |g|
           rotation = 0
-          avail = @possibilities[round].select{|r| r.instance_variable_get("@#{typ}")}
+          avail = @possibilities[round].select{|r| r.instance_variable_get("@#{typ[/\D*/]}")}
           # binding.pry
           if not avail.empty?
             # repeated if statement cause list could empty mid way
@@ -162,7 +162,7 @@ class Schedule
   def double_check
     @games.each do |round|
       round.each do |g|
-        if g.hr.nil?
+        if g.hr.nil? or g.sr.nil? or g.ar1.nil?
           puts "#{g.round}:#{g.pitch} is invalid"
         end
       end
