@@ -1,6 +1,7 @@
 require './referee'
 require './game'
 require 'pp'
+require 'pry'
 
 # don't build this file, it doesn't do anything
 
@@ -102,30 +103,38 @@ class Schedule
     find_possibilities
     
     @num_rounds.times do |round|
-      @games[round].each do |g|
-        rotation = 0
-        if not @possibilities[round].empty?
-          while not @possibilities[round].empty? and @possibilities[round].last.streak > 2
-            # gotta take a break
-            @possibilities[round].last.streak = 0
-            @possibilities[round].pop
-          end
-          # only do this block if we're worrying about reffing your own pool
-          while @possibilities[round].last.pool == g.pool
-            # can't ref your own pool! 
-            # pick someone else! rotate & unrotate?
-            @possibilities[round].rotate! -1
-            rotation += 1
-            break if rotation == @possibilities[round].size 
-          end
-          g.hr = @possibilities[round].pop
-          g.hr.streak += 1 if not g.hr.nil?
-
-          if rotation > 0
-            @possibilities[round].rotate! rotation
-          end
-        else
-          break
+      ['hr','sr','ar'].each do |typ|
+        @games[round].each do |g|
+          rotation = 0
+          avail = @possibilities[round].select{|r| r.instance_variable_get("@#{typ}")}
+          # binding.pry
+          if not avail.empty?
+            # repeated if statement cause list could empty mid way
+            while not avail.empty? and avail.last.streak > 1
+              # gotta take a break
+              avail.last.streak = 0
+              avail.pop
+            end
+            break if avail.empty?
+            # only do this block if we're worrying about reffing your own pool
+            while avail.last.pool == g.pool
+              # can't ref your own pool! 
+              # pick someone else! rotate & unrotate?
+              avail.rotate! -1
+              rotation += 1
+              break if rotation == avail.size 
+            end
+            g.instance_variable_set("@#{typ}",avail.pop)
+            if not g.instance_variable_get("@#{typ}").nil?
+              g.instance_variable_get("@#{typ}").streak += 1 
+              @possibilities[round] -= [g.instance_variable_get("@#{typ}")]
+            end
+              if rotation > 0
+                avail.rotate! rotation
+              end
+            else
+              break
+            end
         end
       end
       @possibilities[round].map{|r| r.streak = 0}
@@ -143,6 +152,7 @@ class Schedule
       end
       # puts "---------------"
       puts "Also available for round #{round}: #{@possibilities[round]}"
+      puts ''
       puts "Available, but playing before or after round #{round}: #{@wide[round]}"
       # puts "---------------"
       puts ''
