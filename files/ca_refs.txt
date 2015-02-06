@@ -1,0 +1,15 @@
+CD|Sachin Kotecha|sa|8
+BA|Laura Lepine|hsa|8
+XX|Chris Beesley|hsa|8
+BB|Félix Tremblay|s|8
+XX|Samy Mousa|hsa|7
+DA|Mars Nienhuis|a|7
+AA|Erin McCrady|hsa|6
+AC|Devin Dutt|hsa|6
+CB|Ian Ip|s|5
+CD|Alexander (Alex) Scherger|a|5
+CD|Kathleen (Katie) Brown|as|5
+CB|Ema Shiroma-Chao|hsa|5
+DD|Cody Mulholland|s|5
+BD|Christine Jefferson|sa|4
+BA|Nicholas Renzetti|hsa|4

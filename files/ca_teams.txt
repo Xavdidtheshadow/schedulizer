@@ -1,0 +1,16 @@
+AA|North Star
+AB|Ottawa Maple Rush
+AC|Valhalla
+AD|University of Toronto Centaurs
+BA|McGill
+BB|Université de Montréal
+BC|University of Guelph
+BD|YorkU Aurors
+CA|Canada's Finest
+CB|Queens QC
+CC|Ryerson
+CD|Waterloo Ridgebacks
+DA|Carelton University
+DB|McMaster
+DC|uOttawa GeeGees
+DD|UTSC Phoenix

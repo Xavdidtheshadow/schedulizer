@@ -1,0 +1,309 @@
+---------------
+Round: 0
+---------------
+Round 0
+Pitch 1
+Pool A
+North Star vs Valhalla
+HR: Ema Shiroma-Chao(C)(5)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Round 0
+Pitch 2
+Pool A
+Ottawa Maple Rush vs University of Toronto Centaurs
+HR: Chris Beesley(X)(8)(HSA)
+SR: Kathleen (Katie) Brown(C)(5)(SA)
+AR1: Alexander (Alex) Scherger(C)(5)(A)
+AR2: 
+
+Also available for round 0: [Cody Mulholland(D)(5)(S), Ian Ip(C)(5)(S)]
+
+Available, but playing after round 0: [Christine Jefferson(B)(4)(SA), Nicholas Renzetti(B)(4)(HSA), Félix Tremblay(B)(8)(S), Laura Lepine(B)(8)(HSA)]
+
+---------------
+Round: 1
+---------------
+Round 1
+Pitch 1
+Pool B
+McGill vs YorkU Aurors
+HR: Erin McCrady(A)(6)(HSA)
+SR: Cody Mulholland(D)(5)(S)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: 
+
+Round 1
+Pitch 2
+Pool B
+Université de Montréal vs University of Guelph
+HR: Devin Dutt(A)(6)(HSA)
+SR: Chris Beesley(X)(8)(HSA)
+AR1: Samy Mousa(X)(7)(HSA)
+AR2: 
+
+Also available for round 1: []
+
+Available, but playing after round 1: [Alexander (Alex) Scherger(C)(5)(A), Ema Shiroma-Chao(C)(5)(HSA), Ian Ip(C)(5)(S), Kathleen (Katie) Brown(C)(5)(SA), Sachin Kotecha(C)(8)(SA)]
+
+---------------
+Round: 2
+---------------
+Round 2
+Pitch 1
+Pool C
+Canada's Finest vs Waterloo Ridgebacks
+HR: Laura Lepine(B)(8)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Nicholas Renzetti(B)(4)(HSA)
+AR2: Chris Beesley(X)(8)(HSA)
+
+Round 2
+Pitch 2
+Pool C
+Queens QC vs Ryerson
+HR: Erin McCrady(A)(6)(HSA)
+SR: Devin Dutt(A)(6)(HSA)
+AR1: Christine Jefferson(B)(4)(SA)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Also available for round 2: []
+
+Available, but playing after round 2: [Cody Mulholland(D)(5)(S), Mars Nienhuis(D)(7)(A)]
+
+---------------
+Round: 3
+---------------
+Round 3
+Pitch 1
+Pool D
+uOttawa GeeGees vs UTSC Phoenix
+HR: Laura Lepine(B)(8)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Kathleen (Katie) Brown(C)(5)(SA)
+AR2: Nicholas Renzetti(B)(4)(HSA)
+
+Round 3
+Pitch 2
+Pool D
+Carelton University vs McMaster
+HR: Ema Shiroma-Chao(C)(5)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Alexander (Alex) Scherger(C)(5)(A)
+AR2: Christine Jefferson(B)(4)(SA)
+
+Also available for round 3: [Samy Mousa(X)(7)(HSA), Chris Beesley(X)(8)(HSA), Ian Ip(C)(5)(S)]
+
+Available, but playing after round 3: [Devin Dutt(A)(6)(HSA), Erin McCrady(A)(6)(HSA)]
+
+---------------
+Round: 4
+---------------
+Round 4
+Pitch 1
+Pool A
+North Star vs Ottawa Maple Rush
+HR: Ema Shiroma-Chao(C)(5)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Round 4
+Pitch 2
+Pool A
+Valhalla vs University of Toronto Centaurs
+HR: Chris Beesley(X)(8)(HSA)
+SR: Kathleen (Katie) Brown(C)(5)(SA)
+AR1: Alexander (Alex) Scherger(C)(5)(A)
+AR2: 
+
+Also available for round 4: [Cody Mulholland(D)(5)(S), Ian Ip(C)(5)(S)]
+
+Available, but playing after round 4: [Christine Jefferson(B)(4)(SA), Nicholas Renzetti(B)(4)(HSA), Félix Tremblay(B)(8)(S), Laura Lepine(B)(8)(HSA)]
+
+---------------
+Round: 5
+---------------
+Round 5
+Pitch 1
+Pool B
+McGill vs Université de Montréal
+HR: Erin McCrady(A)(6)(HSA)
+SR: Cody Mulholland(D)(5)(S)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: 
+
+Round 5
+Pitch 2
+Pool B
+University of Guelph vs YorkU Aurors
+HR: Devin Dutt(A)(6)(HSA)
+SR: Chris Beesley(X)(8)(HSA)
+AR1: Samy Mousa(X)(7)(HSA)
+AR2: 
+
+Also available for round 5: []
+
+Available, but playing after round 5: [Alexander (Alex) Scherger(C)(5)(A), Ema Shiroma-Chao(C)(5)(HSA), Ian Ip(C)(5)(S), Kathleen (Katie) Brown(C)(5)(SA), Sachin Kotecha(C)(8)(SA)]
+
+---------------
+Round: 6
+---------------
+Round 6
+Pitch 1
+Pool C
+Ryerson vs Waterloo Ridgebacks
+HR: Laura Lepine(B)(8)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Nicholas Renzetti(B)(4)(HSA)
+AR2: Chris Beesley(X)(8)(HSA)
+
+Round 6
+Pitch 2
+Pool C
+Canada's Finest vs Queens QC
+HR: Erin McCrady(A)(6)(HSA)
+SR: Devin Dutt(A)(6)(HSA)
+AR1: Christine Jefferson(B)(4)(SA)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Also available for round 6: []
+
+Available, but playing after round 6: [Cody Mulholland(D)(5)(S), Mars Nienhuis(D)(7)(A)]
+
+---------------
+Round: 7
+---------------
+Round 7
+Pitch 1
+Pool D
+McMaster vs uOttawa GeeGees
+HR: Laura Lepine(B)(8)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Kathleen (Katie) Brown(C)(5)(SA)
+AR2: Nicholas Renzetti(B)(4)(HSA)
+
+Round 7
+Pitch 2
+Pool D
+Carelton University vs UTSC Phoenix
+HR: Ema Shiroma-Chao(C)(5)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Alexander (Alex) Scherger(C)(5)(A)
+AR2: Christine Jefferson(B)(4)(SA)
+
+Also available for round 7: [Samy Mousa(X)(7)(HSA), Chris Beesley(X)(8)(HSA), Ian Ip(C)(5)(S)]
+
+Available, but playing after round 7: [Devin Dutt(A)(6)(HSA), Erin McCrady(A)(6)(HSA)]
+
+---------------
+Round: 8
+---------------
+Round 8
+Pitch 1
+Pool A
+North Star vs University of Toronto Centaurs
+HR: Chris Beesley(X)(8)(HSA)
+SR: Ian Ip(C)(5)(S)
+AR1: Kathleen (Katie) Brown(C)(5)(SA)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Round 8
+Pitch 2
+Pool A
+Ottawa Maple Rush vs Valhalla
+HR: Ema Shiroma-Chao(C)(5)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: Alexander (Alex) Scherger(C)(5)(A)
+
+Also available for round 8: [Cody Mulholland(D)(5)(S)]
+
+Available, but playing after round 8: [Christine Jefferson(B)(4)(SA), Nicholas Renzetti(B)(4)(HSA), Félix Tremblay(B)(8)(S), Laura Lepine(B)(8)(HSA)]
+
+---------------
+Round: 9
+---------------
+Round 9
+Pitch 1
+Pool B
+McGill vs University of Guelph
+HR: Chris Beesley(X)(8)(HSA)
+SR: Devin Dutt(A)(6)(HSA)
+AR1: Mars Nienhuis(D)(7)(A)
+AR2: 
+
+Round 9
+Pitch 2
+Pool B
+Université de Montréal vs YorkU Aurors
+HR: Erin McCrady(A)(6)(HSA)
+SR: Cody Mulholland(D)(5)(S)
+AR1: Samy Mousa(X)(7)(HSA)
+AR2: 
+
+Also available for round 9: []
+
+Available, but playing after round 9: [Alexander (Alex) Scherger(C)(5)(A), Ema Shiroma-Chao(C)(5)(HSA), Ian Ip(C)(5)(S), Kathleen (Katie) Brown(C)(5)(SA), Sachin Kotecha(C)(8)(SA)]
+
+---------------
+Round: 10
+---------------
+Round 10
+Pitch 1
+Pool C
+Queens QC vs Waterloo Ridgebacks
+HR: Erin McCrady(A)(6)(HSA)
+SR: Devin Dutt(A)(6)(HSA)
+AR1: Chris Beesley(X)(8)(HSA)
+AR2: Christine Jefferson(B)(4)(SA)
+
+Round 10
+Pitch 2
+Pool C
+Canada's Finest vs Ryerson
+HR: Laura Lepine(B)(8)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Nicholas Renzetti(B)(4)(HSA)
+AR2: Samy Mousa(X)(7)(HSA)
+
+Also available for round 10: []
+
+Available, but playing after round 10: [Cody Mulholland(D)(5)(S), Mars Nienhuis(D)(7)(A)]
+
+---------------
+Round: 11
+---------------
+Round 11
+Pitch 1
+Pool D
+Carelton University vs uOttawa GeeGees
+HR: Laura Lepine(B)(8)(HSA)
+SR: Sachin Kotecha(C)(8)(SA)
+AR1: Devin Dutt(A)(6)(HSA)
+AR2: Ema Shiroma-Chao(C)(5)(HSA)
+
+Round 11
+Pitch 2
+Pool D
+McMaster vs UTSC Phoenix
+HR: Erin McCrady(A)(6)(HSA)
+SR: Félix Tremblay(B)(8)(S)
+AR1: Kathleen (Katie) Brown(C)(5)(SA)
+AR2: Alexander (Alex) Scherger(C)(5)(A)
+
+Also available for round 11: [Samy Mousa(X)(7)(HSA), Chris Beesley(X)(8)(HSA), Christine Jefferson(B)(4)(SA), Nicholas Renzetti(B)(4)(HSA), Ian Ip(C)(5)(S)]
+
+Available, but playing after round 11: []
+
+Issues: 
+0:2 is invalid
+1:1 is invalid
+1:2 is invalid
+4:2 is invalid
+5:1 is invalid
+5:2 is invalid
+9:1 is invalid
+9:2 is invalid
