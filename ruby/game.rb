@@ -15,7 +15,7 @@ class Game
     @team_a = a
     @team_b = b
     @pool = @team_a[0]
-    @pitch = ['A','B','C'].index(@pool)
+    @pitch = ['A','B','C','D'].index(@pool) % 2
     # could maybe take pitch info - need to make a spec
   end
 
@@ -24,10 +24,10 @@ class Game
   end
 
   def inspect
-    "INSPECT Game between #{@team_a} and #{@team_b} on pitch #{@pitch}"
+    "INSPECT Round #{@round}\nPitch #{@pitch}\nPool #{@pool}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\nSR: #{@sr}\nAR1: #{@ar1}\nAR2: #{@ar2}\n\n"
   end
 
   def to_s
-    "Round #{@round}\nPitch #{@pitch}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\nSR: #{@sr}\nAR1: #{@ar1}\nAR2: #{@ar2}\n\n"
+    "Round #{@round}\nPitch #{@pitch}\nPool #{@pool}\n#{@team_a_name} vs #{@team_b_name}\nHR: #{@hr}\nSR: #{@sr}\nAR1: #{@ar1}\nAR2: #{@ar2}\n\n"
   end
 end

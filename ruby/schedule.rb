@@ -1,7 +1,7 @@
 require './referee'
 require './game'
 require 'pp'
-# require 'pry'
+require 'pry'
 
 # don't build this file, it doesn't do anything
 
@@ -12,7 +12,9 @@ class Schedule
     @refs = []
     @possibilities = {}
     @wide = {}
-    @fname = 'au'
+    @fname = 'ca'
+    # can ref up to this many games in a row
+    @streak = 3
 
     read_teams
     read_games
@@ -22,6 +24,8 @@ class Schedule
   def read_games
     f = open("#{@fname}_games.txt")
     round = 0
+    pitches = ['1', '2']
+    pitch = 0
     round_games = []
     f.each do |line|
       # this is too flimsy
@@ -31,7 +35,9 @@ class Schedule
         g.round = round
         g.team_a_name = @teams[g.team_a]
         g.team_b_name = @teams[g.team_b]
+        g.pitch = pitches[pitch % 2]
         round_games << g
+        pitch += 1
       else
         @games << round_games
         round_games = []
@@ -77,12 +83,15 @@ class Schedule
     @num_rounds.times do |round|
       wide = []
       # pull out anyone who's playing before or after this round
-      if round > 0
-        @games[round - 1].each do |g|
-          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
-        end
-      end
 
+      # before
+      # if round > 0
+      #   @games[round - 1].each do |g|
+      #     wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+      #   end
+      # end
+
+      # after
       if round < @num_rounds - 1
         @games[round + 1].each do |g|
           wide += @possibilities[round].select{|ref| g.playing(ref.team)}
@@ -110,7 +119,7 @@ class Schedule
           # binding.pry
           if not avail.empty?
             # repeated if statement cause list could empty mid way
-            while not avail.empty? and avail.last.streak > 1
+            while not avail.empty? and avail.last.streak > @streak
               # gotta take a break
               avail.last.streak = 0
               avail.pop
@@ -120,7 +129,7 @@ class Schedule
             while avail.last.pool == g.pool
               # can't ref your own pool! 
               # pick someone else! rotate & unrotate?
-              avail.rotate! -1
+              avail.rotate!(-1)
               rotation += 1
               break if rotation == avail.size 
             end
@@ -132,9 +141,9 @@ class Schedule
               if rotation > 0
                 avail.rotate! rotation
               end
-            else
-              break
-            end
+          else
+            break
+          end
         end
       end
       @possibilities[round].map{|r| r.streak = 0}
@@ -153,16 +162,17 @@ class Schedule
       # puts "---------------"
       puts "Also available for round #{round}: #{@possibilities[round]}"
       puts ''
-      puts "Available, but playing before or after round #{round}: #{@wide[round]}"
+      puts "Available, but playing after round #{round}: #{@wide[round]}"
       # puts "---------------"
       puts ''
     end
   end
 
   def double_check
+    puts "Issues: "
     @games.each do |round|
       round.each do |g|
-        if g.hr.nil? or g.sr.nil? or g.ar1.nil?
+        if g.hr.nil? or g.sr.nil? or g.ar1.nil? or g.ar2.nil?
           puts "#{g.round}:#{g.pitch} is invalid"
         end
       end
