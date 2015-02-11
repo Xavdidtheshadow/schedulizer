@@ -10,20 +10,22 @@ class Referee
   attr_accessor :ar
   attr_accessor :cert_str
 
-  def initialize(team, name, cert, stars)
+  def initialize(r)
     # puts 'New referee!'
     # call to refdevelopment.com/info/ID
     # response = open('')
     # @name = response['name']
     # @team = response['team']
-    @name = name
-    @team = team
+    @name = r['name']
+    @team = r['team']['code']
+    @team_name = r['team']['name']
+    @pool = r['team']['pool']
     # this is a str so that it matches what's read in from the file; could all be ints too, as long as they match
-    @stars = stars || rand(1..6).to_s
+    # @stars = stars || rand(1..6).to_s
     @streak = 0
-    @pool = @team[0]
+    # @pool = @team[0]
     @cert_str = ''
-    certify(cert)
+    certify(r['qualifications'])
     # mongo query for stars
     # db.stars.find({"to": id}).to_a.size
     # need something about cert level
@@ -44,10 +46,10 @@ class Referee
     @stars <=> o.stars
   end
 
-  def certify(s)
-    @hr = s['h'] ? true : false
-    @sr = s['s'] ? true : false
-    @ar = s['a'] ? true : false
+  def certify(q)
+    @hr = s[0]['status']
+    @sr = s[1]['status']
+    @ar = s[2]['status']
 
     certs = [@hr, @sr, @ar]
     labels = 'HSA'

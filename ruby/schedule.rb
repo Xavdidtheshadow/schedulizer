@@ -2,6 +2,7 @@ require './referee'
 require './game'
 require 'pp'
 require 'pry'
+require 'httparty'
 
 # don't build this file, it doesn't do anything
 
@@ -12,7 +13,7 @@ class Schedule
     @refs = []
     @possibilities = {}
     @wide = {}
-    @fname = 'ca'
+    @fname = 'we'
     # can ref up to this many games in a row
     @streak = 3
 
@@ -24,7 +25,7 @@ class Schedule
   def read_games
     f = open("#{@fname}_games.txt")
     round = 0
-    pitches = ['1', '2']
+    pitches = ['1', '2', '3', '4']
     pitch = 0
     round_games = []
     f.each do |line|
@@ -33,9 +34,11 @@ class Schedule
         line = line.chomp.split('|')
         g = Game.new(line[0], line[1])
         g.round = round
-        g.team_a_name = @teams[g.team_a]
-        g.team_b_name = @teams[g.team_b]
-        g.pitch = pitches[pitch % 2]
+        pool = @teams[line[0]]
+        # g.team_a_name = @teams[g.team_a]
+        # g.team_b_name = @teams[g.team_b]
+        g.pitch = pitches[pitch % pitches.size]
+        g.pool = @teams[g.team_a]
         round_games << g
         pitch += 1
       else
@@ -48,21 +51,20 @@ class Schedule
   end    
 
   def read_refs
-    f = open("#{@fname}_refs.txt")
-    f.each do |line|
-      line = line.chomp.split('|')
-      r = Referee.new(line[0],line[1],line[2], line[3])
-      r.team_name = @teams[r.team]
-      @refs << r
+    refs = HTTParty.get("http://westerncup.herokuapp.com/api/people")
+    refs.each do |r|
+      r = Referee.new(r)
+      # don't really want goalkeepers and stuff
+      @refs << r if r.cert_string.size != ''
     end
-    # puts "Read in #{@refs.size} referees"
+    puts "Read in #{@refs.size} referees"
   end
 
   def read_teams
     f = open("#{@fname}_teams.txt")
     f.each do |line|
       line = line.chomp.split('|')
-      @teams[line[0]] = line[1]
+      @teams[line[1]] = line[2]
     end
   end
 
@@ -85,11 +87,11 @@ class Schedule
       # pull out anyone who's playing before or after this round
 
       # before
-      # if round > 0
-      #   @games[round - 1].each do |g|
-      #     wide += @possibilities[round].select{|ref| g.playing(ref.team)}
-      #   end
-      # end
+      if round > 0
+        @games[round - 1].each do |g|
+          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+        end
+      end
 
       # after
       if round < @num_rounds - 1
