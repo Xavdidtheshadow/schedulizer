@@ -55,9 +55,12 @@ class Schedule
     refs.each do |r|
       r = Referee.new(r)
       # don't really want goalkeepers and stuff
-      @refs << r if r.cert_string.size != ''
+      @refs << r if r.cert_str != ''
     end
-    puts "Read in #{@refs.size} referees"
+    # @refs.each do |r|
+    #   puts r.name+': '
+    # end
+    # exit(0)
   end
 
   def read_teams
@@ -69,6 +72,11 @@ class Schedule
   end
 
   def find_possibilities
+    # whether or not you can ref before/after you play
+    # best setup is false, true, so that you can ref after you play, but not before
+    ref_before = false
+    ref_after = true
+
     @num_rounds.times do |round|
       busy = []
 
@@ -86,17 +94,19 @@ class Schedule
       wide = []
       # pull out anyone who's playing before or after this round
 
-      # before
-      if round > 0
-        @games[round - 1].each do |g|
-          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+      if ref_before
+        if round > 0
+          @games[round - 1].each do |g|
+            wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+          end
         end
       end
 
-      # after
-      if round < @num_rounds - 1
-        @games[round + 1].each do |g|
-          wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+      if ref_after
+        if round < @num_rounds - 1
+          @games[round + 1].each do |g|
+            wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+          end
         end
       end
 
@@ -174,7 +184,7 @@ class Schedule
     puts "Issues: "
     @games.each do |round|
       round.each do |g|
-        if g.hr.nil? or g.sr.nil? or g.ar1.nil? or g.ar2.nil?
+        if g.hr.nil? or g.sr.nil? or g.ar2.nil?
           puts "#{g.round}:#{g.pitch} is invalid"
         end
       end

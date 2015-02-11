@@ -21,7 +21,7 @@ class Referee
     @team_name = r['team']['name']
     @pool = r['team']['pool']
     # this is a str so that it matches what's read in from the file; could all be ints too, as long as they match
-    # @stars = stars || rand(1..6).to_s
+    @stars = stars || rand(1..6).to_s
     @streak = 0
     # @pool = @team[0]
     @cert_str = ''
@@ -34,12 +34,12 @@ class Referee
 
   # used for puts array 
   def inspect
-    "#{@name}(#{@pool})(#{@stars})(#{@cert_str})"
+    "#{@name}(#{@team})(#{@stars})(#{@cert_str})"
   end
 
   # used for puts game
   def to_s
-    "#{@name}(#{@pool})(#{@stars})(#{@cert_str})"
+    "#{@name}(#{@team})(#{@stars})(#{@cert_str})"
   end
 
   def <=>(o)
@@ -47,9 +47,9 @@ class Referee
   end
 
   def certify(q)
-    @hr = s[0]['status']
-    @sr = s[1]['status']
-    @ar = s[2]['status']
+    @hr = q[0]['status']
+    @sr = q[1]['status']
+    @ar = q[2]['status']
 
     certs = [@hr, @sr, @ar]
     labels = 'HSA'
