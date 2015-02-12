@@ -18,13 +18,13 @@ class Game
     # could maybe take pitch info - need to make a spec
   end
 
-  def playing(teams)
+  def playing?(teams)
     # team is now an array of teams
     p = false
     teams.each do |team|
       p = true if (team['code'] == @team_a or team['code'] == @team_b)
     end
-    puts "#{teams} looking for #{@team_a} or #{@team_b}. result: #{p}"
+    # puts "#{teams} looking for #{@team_a} or #{@team_b}. result: #{p}"
     p
   end
 
@@ -34,5 +34,9 @@ class Game
 
   def to_s
     "Round #{@round}\nPitch #{@pitch}\nPool #{@pool}\n#{@team_a} vs #{@team_b}\nHR: #{@hr}\nSR: #{@sr}\nAR1: #{@ar1}\nAR2: #{@ar2}\n\n"
+  end
+
+  def to_csv
+    [@round, @pitch, @team_a, @team_b, @hr, @sr, @ar1, @ar2, '', '']
   end
 end

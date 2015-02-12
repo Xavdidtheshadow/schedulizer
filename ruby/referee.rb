@@ -1,8 +1,7 @@
 class Referee
   attr_accessor :name
-  attr_accessor :team
   attr_accessor :teams
-  attr_accessor :team_name
+  attr_accessor :requests
   attr_accessor :stars
   attr_accessor :streak
   attr_accessor :pool #char
@@ -18,12 +17,13 @@ class Referee
     # @name = response['name']
     # @team = response['team']
     @name = r['name']
-    @team = r['team'].first['code']
-    @team_name = r['team'].first['name']
+    # @team = r['team'].first['code']
+    # @team_name = r['team'].first['name']
     @teams = r['team']
+    @requests = r['requests']
     @pool = r['team'].first['pool']
     # this is a str so that it matches what's read in from the file; could all be ints too, as long as they match
-    @stars = stars || rand(1..6).to_s
+    @stars = r['score'].to_i || rand(1..6).to_s
     @streak = 0
     # @pool = @team[0]
     @cert_str = ''
@@ -31,17 +31,34 @@ class Referee
     # mongo query for stars
     # db.stars.find({"to": id}).to_a.size
     # need something about cert level
+  end
 
+  def team
+    @teams.first['code']
+  end
+
+  def team_name
+    @teams.first['name']
+  end
+
+  def request?(game_teams)
+    # returns true if the ref requested out of one of these games
+    req = false
+    @requests.each do |r|
+      req = true if game_teams.include? r['code']
+    end
+    # puts "ref requested not to ref #{@requests} so #{req} is returned for #{game_teams}"
+    req
   end
 
   # used for puts array 
   def inspect
-    "#{@name}(#{@team})(#{@stars})(#{@cert_str})"
+    "#{name}(#{team})(#{@stars})(#{@cert_str})"
   end
 
   # used for puts game
   def to_s
-    "#{@name}(#{@team})(#{@stars})(#{@cert_str})"
+    "#{name}(#{team})(#{@cert_str})"
   end
 
   def <=>(o)

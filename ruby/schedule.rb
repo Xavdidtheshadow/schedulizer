@@ -3,6 +3,7 @@ require './game'
 require 'pp'
 require 'pry'
 require 'httparty'
+require 'csv'
 
 # don't build this file, it doesn't do anything
 
@@ -34,7 +35,7 @@ class Schedule
         line = line.chomp.split('|')
         g = Game.new(line[0], line[1])
         g.round = round
-        pool = @teams[line[0]]
+        # pool = @teams[line[0]]
         # g.team_a_name = @teams[g.team_a]
         # g.team_b_name = @teams[g.team_b]
         g.pitch = pitches[pitch % pitches.size]
@@ -81,7 +82,7 @@ class Schedule
       busy = []
 
       @games[round].each do |g|
-        busy += @refs.select{|r| g.playing(r.teams)}
+        busy += @refs.select{|r| g.playing?(r.teams)}
         # this is broken now it's in a separate place
         # busy.map{|r| r.streak = 0}
       end
@@ -97,7 +98,7 @@ class Schedule
       if ref_before
         if round > 0
           @games[round - 1].each do |g|
-            wide += @possibilities[round].select{|ref| g.playing(ref.teams)}
+            wide += @possibilities[round].select{|ref| g.playing?(ref.teams)}
           end
         end
       end
@@ -105,7 +106,7 @@ class Schedule
       if ref_after
         if round < @num_rounds - 1
           @games[round + 1].each do |g|
-            wide += @possibilities[round].select{|ref| g.playing(ref.teams)}
+            wide += @possibilities[round].select{|ref| g.playing?(ref.teams)}
           end
         end
       end
@@ -130,15 +131,16 @@ class Schedule
           avail = @possibilities[round].select{|r| r.instance_variable_get("@#{typ[/\D*/]}")}
           # binding.pry
           if not avail.empty?
-            # repeated if statement cause list could empty mid way
-            while not avail.empty? and avail.last.streak > @streak
+            # repeated if statement cause list could empty midway
+            while avail.last.streak > @streak
               # gotta take a break
               avail.last.streak = 0
               avail.pop
+              break if avail.empty?
             end
             break if avail.empty?
-            # only do this block if we're worrying about reffing your own pool
-            while avail.last.pool == g.pool
+            # only do this block if we're worrying about reffing your own pool and requests
+            while avail.last.pool == g.pool or avail.last.request?([g.team_a, g.team_b])
               # can't ref your own pool! 
               # pick someone else! rotate & unrotate?
               avail.rotate!(-1)
@@ -151,7 +153,7 @@ class Schedule
               @possibilities[round] -= [g.instance_variable_get("@#{typ}")]
             end
               if rotation > 0
-                avail.rotate! rotation
+                avail.rotate!(rotation)
               end
           else
             break
@@ -177,6 +179,17 @@ class Schedule
       puts "Available, but playing after round #{round}: #{@wide[round]}"
       # puts "---------------"
       puts ''
+    end
+  end
+
+  def print_csv
+    CSV.open("#{@fname}_results.csv", 'wb+') do |csv|
+      csv << ['Round', 'Pitch', 'Team A', 'Team B', 'HR', 'SR', 'AR', 'AR', 'GR', 'SC']
+      @num_rounds.times do |round|
+        @games[round].each do |g|
+          csv << g.to_csv
+        end
+      end
     end
   end
 
