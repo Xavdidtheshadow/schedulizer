@@ -18,8 +18,14 @@ class Game
     # could maybe take pitch info - need to make a spec
   end
 
-  def playing(team)
-    team == @team_a or team == @team_b
+  def playing(teams)
+    # team is now an array of teams
+    p = false
+    teams.each do |team|
+      p = true if (team['code'] == @team_a or team['code'] == @team_b)
+    end
+    puts "#{teams} looking for #{@team_a} or #{@team_b}. result: #{p}"
+    p
   end
 
   def inspect

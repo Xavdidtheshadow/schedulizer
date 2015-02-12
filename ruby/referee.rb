@@ -1,6 +1,7 @@
 class Referee
   attr_accessor :name
   attr_accessor :team
+  attr_accessor :teams
   attr_accessor :team_name
   attr_accessor :stars
   attr_accessor :streak
@@ -17,9 +18,10 @@ class Referee
     # @name = response['name']
     # @team = response['team']
     @name = r['name']
-    @team = r['team']['code']
-    @team_name = r['team']['name']
-    @pool = r['team']['pool']
+    @team = r['team'].first['code']
+    @team_name = r['team'].first['name']
+    @teams = r['team']
+    @pool = r['team'].first['pool']
     # this is a str so that it matches what's read in from the file; could all be ints too, as long as they match
     @stars = stars || rand(1..6).to_s
     @streak = 0

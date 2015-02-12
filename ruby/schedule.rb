@@ -81,7 +81,7 @@ class Schedule
       busy = []
 
       @games[round].each do |g|
-        busy += @refs.select{|r| g.playing(r.team)}
+        busy += @refs.select{|r| g.playing(r.teams)}
         # this is broken now it's in a separate place
         # busy.map{|r| r.streak = 0}
       end
@@ -97,7 +97,7 @@ class Schedule
       if ref_before
         if round > 0
           @games[round - 1].each do |g|
-            wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+            wide += @possibilities[round].select{|ref| g.playing(ref.teams)}
           end
         end
       end
@@ -105,7 +105,7 @@ class Schedule
       if ref_after
         if round < @num_rounds - 1
           @games[round + 1].each do |g|
-            wide += @possibilities[round].select{|ref| g.playing(ref.team)}
+            wide += @possibilities[round].select{|ref| g.playing(ref.teams)}
           end
         end
       end
