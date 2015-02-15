@@ -24,7 +24,7 @@ class Schedule
   end
 
   def read_games
-    f = open("#{@fname}_games.txt")
+    f = open("../files/#{@fname}_gamesv2.txt")
     round = 0
     pitches = ['1', '2', '3', '4']
     pitch = 0
@@ -65,7 +65,7 @@ class Schedule
   end
 
   def read_teams
-    f = open("#{@fname}_teams.txt")
+    f = open("../files/#{@fname}_teams.txt")
     f.each do |line|
       line = line.chomp.split('|')
       @teams[line[1]] = line[2]
