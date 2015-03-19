@@ -1,0 +1,23 @@
+The Lost Boys|LBQC|4A
+Los Angeles Gambits|LAG|4C
+University of California Los Angeles|UCLA|5B
+Silicon Valley Skrewts|SVS|4B
+Santa Barbara Blacktips|SBB|5A
+Arizona Quidditch Club|AZQC|4B
+San Jose State University Spartans|SJSU|5A
+Crimson Elite|CE|5B
+University of Southern California|USC|4C
+NAU Narwhals|NAU|4A
+Arizona State University|ASU|5B
+Utah State Quidditch Club|USQC|4A
+Stanford Quidditch|STAN|4B
+Riverside Quidditch|RQ|4C
+California Dobbys|DBYS|5A
+Cal Quidditch|CAL|4B
+the Long Beach Funky Quaffles|LBFQ|5A
+Mission Blues Quidditch|MBQ|4A
+Wizards of Westwood|WOW|4C
+Anteater Quidditch|AQ|5B
+Silicon Valley Skyfighters|SVSF|5B
+University of Arizona Quidditch|UA|5A
+None|NONE|XX

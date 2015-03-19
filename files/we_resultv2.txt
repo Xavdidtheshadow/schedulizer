@@ -1,0 +1,427 @@
+---------------
+Round: 0
+---------------
+Round 0
+Pitch 1
+Pool 5A
+LBFQ vs SJSU
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Peter Lee(LBQC)(6)(A)
+AR2: Jacob Ellis(AQ)(2)(SA)
+
+Round 0
+Pitch 2
+Pool 5B
+UCLA vs CE
+HR: Evan Bell(NONE)(8)(HS)
+SR: Mark Stethem(UA)(7)(SA)
+AR1: Madeleine Wojdak(LBQC)(5)(A)
+AR2: Joren Adams(SBB)(4)(A)
+
+Round 0
+Pitch 3
+Pool 4A
+MBQ vs NAU
+HR: Julia Thomas(USC)(7)(HSA)
+SR: Tristan West(NONE)(4)(SA)
+AR1: Nicole Martinez(UA)(2)(SA)
+AR2: Kaylee Buchholtz(ASU)(4)(A)
+
+Round 0
+Pitch 4
+Pool 4B
+STAN vs AZQC
+HR: Kevin Oelze(SVS)(9)(HSA)
+SR: Harrison Baucom(NONE)(4)(SA)
+AR1: Frank Gao(LBQC)(4)(SA)
+AR2: Willis Andrew Miles IV(SVS)(6)(SA)
+
+Also available for round 0: []
+
+Available, but playing after round 0: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Michael Wu(DBYS)(2)(S), Nick Church(SBB)(2)(A), Allaina Honda(ASU)(3)(A), Caylen McDonald(LAG)(3)(A), Dalia Nahol(SVSF)(3)(A), Chewy Shaw(SVS)(4)(SA), , , Nicholas Worthington(ASU)(5)(A), Janos Barbero(SVSF)(6)(HSA), McLaren Cundiff(SVS)(6)(HA), , Daniel Martin(ASU)(7)(HSA), Kelby Brooks(LAG)(7)(H), Martin Pyne(SVS)(7)(HSA), Steve DiCarlo(LAG)(7)(S), Chris Lock(SVS)(8)(H), Josh Mattison(ASU)(9)(HA)]
+
+---------------
+Round: 1
+---------------
+Round 1
+Pitch 1
+Pool 5B
+ASU vs SVSF
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Sean Pretti(AZQC)(6)(HS)
+AR1: Peter Lee(LBQC)(6)(A)
+AR2: Hailey Clonts(STAN)(4)(A)
+
+Round 1
+Pitch 2
+Pool 4C
+LAG vs RQ
+HR: Evan Bell(NONE)(8)(HS)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Madeleine Wojdak(LBQC)(5)(A)
+AR2: Frank Gao(LBQC)(4)(SA)
+
+Round 1
+Pitch 3
+Pool 4B
+CAL vs SVS
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Tristan West(NONE)(4)(SA)
+AR1: Kevin Hayes(LBFQ)(4)(SA)
+AR2: Jessica Ward(LBFQ)(2)(A)
+
+Round 1
+Pitch 4
+Pool 5A
+DBYS vs SBB
+HR: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+SR: Ethan A Kapke(AZQC)(6)(SA)
+AR1: Harrison Baucom(NONE)(4)(SA)
+AR2: Zachary Chiu(WOW)(3)(A)
+
+Also available for round 1: []
+
+Available, but playing after round 1: [David Burtch(WOW)(2)(A), Jacob Ellis(AQ)(2)(SA), Nicole Martinez(UA)(2)(SA), Pagé Goddard(WOW)(2)(A), Ryan Seaton(UCLA)(2)(SA), Rebecca Lewis(CE)(3)(A), Zachary Chiu(WOW)(3)(A), Badal Chandra(WOW)(4)(SA), Corey Osto(UCLA)(4)(SA), Elizabeth Barcelos(SJSU)(4)(A), Gina Allyn(CE)(4)(S), Kayl Eubanks(UCLA)(4)(A), Lauren Fitzgibbon(WOW)(4)(SA), Sarah Simko(UCLA)(4)(A), Kyle Campbell(SJSU)(5)(SA), Julia Thomas(USC)(7)(HSA), Mark Stethem(UA)(7)(SA), Dan Hanson(CE)(10)(HA), Sequoia Thomas(CE)(10)(HSA)]
+
+---------------
+Round: 2
+---------------
+Round 2
+Pitch 1
+Pool 4C
+WOW vs USC
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Evan Bell(NONE)(8)(HS)
+AR1: Daniel Martin(ASU)(7)(HSA)
+AR2: Kym Couch(NONE)(6)(SA)
+
+Round 2
+Pitch 2
+Pool 4A
+NAU vs USQC
+HR: Kevin Oelze(SVS)(9)(HSA)
+SR: Steve DiCarlo(LAG)(7)(S)
+AR1: Willis Andrew Miles IV(SVS)(6)(SA)
+AR2: Janos Barbero(SVSF)(6)(HSA)
+
+Round 2
+Pitch 3
+Pool 5A
+UA vs SJSU
+HR: Josh Mattison(ASU)(9)(HA)
+SR: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+AR1: Peter Lee(LBQC)(6)(A)
+AR2: Ethan A Kapke(AZQC)(6)(SA)
+
+Round 2
+Pitch 4
+Pool 5B
+AQ vs CE
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Martin Pyne(SVS)(7)(HSA)
+AR1: McLaren Cundiff(SVS)(6)(HA)
+AR2: Madeleine Wojdak(LBQC)(5)(A)
+
+Also available for round 2: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jessica Ward(LBFQ)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Michael Wu(DBYS)(2)(S), Nick Church(SBB)(2)(A), Allaina Honda(ASU)(3)(A), Caylen McDonald(LAG)(3)(A), Dalia Nahol(SVSF)(3)(A), Chewy Shaw(SVS)(4)(SA), Frank Gao(LBQC)(4)(SA), Hailey Clonts(STAN)(4)(A), Harrison Baucom(NONE)(4)(SA), Joren Adams(SBB)(4)(A), Kaylee Buchholtz(ASU)(4)(A), Kevin Hayes(LBFQ)(4)(SA), Tristan West(NONE)(4)(SA), Nicholas Worthington(ASU)(5)(A), Sean Pretti(AZQC)(6)(HS), Kelby Brooks(LAG)(7)(H), Chris Lock(SVS)(8)(H)]
+
+Available, but playing after round 2: []
+
+---------------
+Round: 3
+---------------
+Also available for round 3: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jacob Ellis(AQ)(2)(SA), Michael Wu(DBYS)(2)(S), Nicole Martinez(UA)(2)(SA), Allaina Honda(ASU)(3)(A), Caylen McDonald(LAG)(3)(A), Rebecca Lewis(CE)(3)(A), Elizabeth Barcelos(SJSU)(4)(A), Gina Allyn(CE)(4)(S), Hailey Clonts(STAN)(4)(A), Harrison Baucom(NONE)(4)(SA), Kaylee Buchholtz(ASU)(4)(A), Tristan West(NONE)(4)(SA), Kyle Campbell(SJSU)(5)(SA), Nicholas Worthington(ASU)(5)(A), Kym Couch(NONE)(6)(SA), Daniel Martin(ASU)(7)(HSA), Julia Thomas(USC)(7)(HSA), Kelby Brooks(LAG)(7)(H), Mark Stethem(UA)(7)(SA), Steve DiCarlo(LAG)(7)(S), Evan Bell(NONE)(8)(HS), Josh Mattison(ASU)(9)(HA), Dan Hanson(CE)(10)(HA), Sequoia Thomas(CE)(10)(HSA)]
+
+Available, but playing after round 3: [David Burtch(WOW)(2)(A), Jessica Ward(LBFQ)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Nick Church(SBB)(2)(A), Pagé Goddard(WOW)(2)(A), Ryan Seaton(UCLA)(2)(SA), Dalia Nahol(SVSF)(3)(A), Zachary Chiu(WOW)(3)(A), Badal Chandra(WOW)(4)(SA), Chewy Shaw(SVS)(4)(SA), Corey Osto(UCLA)(4)(SA), Frank Gao(LBQC)(4)(SA), Joren Adams(SBB)(4)(A), Kayl Eubanks(UCLA)(4)(A), Kevin Hayes(LBFQ)(4)(SA), Lauren Fitzgibbon(WOW)(4)(SA), Sarah Simko(UCLA)(4)(A), Madeleine Wojdak(LBQC)(5)(A), Ethan A Kapke(AZQC)(6)(SA), Janos Barbero(SVSF)(6)(HSA), McLaren Cundiff(SVS)(6)(HA), Peter Lee(LBQC)(6)(A), Sean Pretti(AZQC)(6)(HS), Willis Andrew Miles IV(SVS)(6)(SA), Martin Pyne(SVS)(7)(HSA), Ramare (Ra) Hopkins(MBQ)(7)(HSA), Chris Lock(SVS)(8)(H), Amanda Nagy(AZQC)(9)(H), Kevin Oelze(SVS)(9)(HSA), Christopher Seto(LBQC)(10)(HSA)]
+
+---------------
+Round: 4
+---------------
+Round 4
+Pitch 1
+Pool 4A
+MBQ vs LBQC
+HR: Sequoia Thomas(CE)(10)(HSA)
+SR: Steve DiCarlo(LAG)(7)(S)
+AR1: Harrison Baucom(NONE)(4)(SA)
+AR2: Allaina Honda(ASU)(3)(A)
+
+Round 4
+Pitch 2
+Pool 5A
+SBB vs LBFQ
+HR: Dan Hanson(CE)(10)(HA)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Rebecca Lewis(CE)(3)(A)
+AR2: Hailey Clonts(STAN)(4)(A)
+
+Round 4
+Pitch 3
+Pool 5B
+SVSF vs UCLA
+HR: Evan Bell(NONE)(8)(HS)
+SR: Kyle Campbell(SJSU)(5)(SA)
+AR1: Elizabeth Barcelos(SJSU)(4)(A)
+AR2: Julia Thomas(USC)(7)(HSA)
+
+Round 4
+Pitch 4
+Pool 4B
+SVS vs AZQC
+HR: Kelby Brooks(LAG)(7)(H)
+SR: Tristan West(NONE)(4)(SA)
+AR1: Caylen McDonald(LAG)(3)(A)
+AR2: Daniel Martin(ASU)(7)(HSA)
+
+Also available for round 4: [Gina Allyn(CE)(4)(S)]
+
+Available, but playing after round 4: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jacob Ellis(AQ)(2)(SA), Michael Wu(DBYS)(2)(S), Nicole Martinez(UA)(2)(SA), Allaina Honda(ASU)(3)(A), , Kaylee Buchholtz(ASU)(4)(A), Nicholas Worthington(ASU)(5)(A), , , Mark Stethem(UA)(7)(SA), Josh Mattison(ASU)(9)(HA)]
+
+---------------
+Round: 5
+---------------
+Round 5
+Pitch 1
+Pool 5A
+DBYS vs UA
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Martin Pyne(SVS)(7)(HSA)
+AR1: Peter Lee(LBQC)(6)(A)
+AR2: Tristan West(NONE)(4)(SA)
+
+Round 5
+Pitch 2
+Pool 5B
+ASU vs AQ
+HR: Kevin Oelze(SVS)(9)(HSA)
+SR: Willis Andrew Miles IV(SVS)(6)(SA)
+AR1: McLaren Cundiff(SVS)(6)(HA)
+AR2: Kevin Hayes(LBFQ)(4)(SA)
+
+Round 5
+Pitch 3
+Pool 4B
+CAL vs STAN
+HR: Evan Bell(NONE)(8)(HS)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Madeleine Wojdak(LBQC)(5)(A)
+AR2: Harrison Baucom(NONE)(4)(SA)
+
+Round 5
+Pitch 4
+Pool 4C
+USC vs RQ
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Sean Pretti(AZQC)(6)(HS)
+AR1: Ethan A Kapke(AZQC)(6)(SA)
+AR2: Frank Gao(LBQC)(4)(SA)
+
+Also available for round 5: [Jessica Ward(LBFQ)(2)(A), Chewy Shaw(SVS)(4)(SA), Chris Lock(SVS)(8)(H)]
+
+Available, but playing after round 5: [David Burtch(WOW)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Nick Church(SBB)(2)(A), Pagé Goddard(WOW)(2)(A), Ryan Seaton(UCLA)(2)(SA), Caylen McDonald(LAG)(3)(A), Dalia Nahol(SVSF)(3)(A), Rebecca Lewis(CE)(3)(A), Zachary Chiu(WOW)(3)(A), Badal Chandra(WOW)(4)(SA), Corey Osto(UCLA)(4)(SA), Elizabeth Barcelos(SJSU)(4)(A), Gina Allyn(CE)(4)(S), Joren Adams(SBB)(4)(A), Kayl Eubanks(UCLA)(4)(A), Lauren Fitzgibbon(WOW)(4)(SA), Sarah Simko(UCLA)(4)(A), Kyle Campbell(SJSU)(5)(SA), Janos Barbero(SVSF)(6)(HSA), Kelby Brooks(LAG)(7)(H), Ramare (Ra) Hopkins(MBQ)(7)(HSA), Steve DiCarlo(LAG)(7)(S), Dan Hanson(CE)(10)(HA), Sequoia Thomas(CE)(10)(HSA)]
+
+---------------
+Round: 6
+---------------
+Round 6
+Pitch 1
+Pool 5B
+SVSF vs CE
+HR: Kevin Oelze(SVS)(9)(HSA)
+SR: Evan Bell(NONE)(8)(HS)
+AR1: Willis Andrew Miles IV(SVS)(6)(SA)
+AR2: Kym Couch(NONE)(6)(SA)
+
+Round 6
+Pitch 2
+Pool 4A
+MBQ vs USQC
+HR: Josh Mattison(ASU)(9)(HA)
+SR: Martin Pyne(SVS)(7)(HSA)
+AR1: Daniel Martin(ASU)(7)(HSA)
+AR2: Ethan A Kapke(AZQC)(6)(SA)
+
+Round 6
+Pitch 3
+Pool 4C
+WOW vs LAG
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Mark Stethem(UA)(7)(SA)
+AR1: McLaren Cundiff(SVS)(6)(HA)
+AR2: Nicholas Worthington(ASU)(5)(A)
+
+Round 6
+Pitch 4
+Pool 5A
+SBB vs SJSU
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Julia Thomas(USC)(7)(HSA)
+AR1: Peter Lee(LBQC)(6)(A)
+AR2: Tristan West(NONE)(4)(SA)
+
+Also available for round 6: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jacob Ellis(AQ)(2)(SA), Jessica Ward(LBFQ)(2)(A), Michael Wu(DBYS)(2)(S), Nicole Martinez(UA)(2)(SA), Allaina Honda(ASU)(3)(A), Chewy Shaw(SVS)(4)(SA), Frank Gao(LBQC)(4)(SA), Hailey Clonts(STAN)(4)(A), Harrison Baucom(NONE)(4)(SA), Kaylee Buchholtz(ASU)(4)(A), Kevin Hayes(LBFQ)(4)(SA), Madeleine Wojdak(LBQC)(5)(A), Sean Pretti(AZQC)(6)(HS), Chris Lock(SVS)(8)(H)]
+
+Available, but playing after round 6: []
+
+---------------
+Round: 7
+---------------
+Also available for round 7: [Jacob Ellis(AQ)(2)(SA), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Nick Church(SBB)(2)(A), Nicole Martinez(UA)(2)(SA), Caylen McDonald(LAG)(3)(A), Dalia Nahol(SVSF)(3)(A), Rebecca Lewis(CE)(3)(A), Chewy Shaw(SVS)(4)(SA), Elizabeth Barcelos(SJSU)(4)(A), Gina Allyn(CE)(4)(S), Hailey Clonts(STAN)(4)(A), Harrison Baucom(NONE)(4)(SA), Joren Adams(SBB)(4)(A), Tristan West(NONE)(4)(SA), Kyle Campbell(SJSU)(5)(SA), Janos Barbero(SVSF)(6)(HSA), Kym Couch(NONE)(6)(SA), McLaren Cundiff(SVS)(6)(HA), Willis Andrew Miles IV(SVS)(6)(SA), Julia Thomas(USC)(7)(HSA), Kelby Brooks(LAG)(7)(H), Mark Stethem(UA)(7)(SA), Martin Pyne(SVS)(7)(HSA), Ramare (Ra) Hopkins(MBQ)(7)(HSA), Steve DiCarlo(LAG)(7)(S), Chris Lock(SVS)(8)(H), Evan Bell(NONE)(8)(HS), Kevin Oelze(SVS)(9)(HSA), Dan Hanson(CE)(10)(HA), Sequoia Thomas(CE)(10)(HSA)]
+
+Available, but playing after round 7: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), David Burtch(WOW)(2)(A), Jessica Ward(LBFQ)(2)(A), Michael Wu(DBYS)(2)(S), Pagé Goddard(WOW)(2)(A), Ryan Seaton(UCLA)(2)(SA), Allaina Honda(ASU)(3)(A), Zachary Chiu(WOW)(3)(A), Badal Chandra(WOW)(4)(SA), Corey Osto(UCLA)(4)(SA), Frank Gao(LBQC)(4)(SA), Kayl Eubanks(UCLA)(4)(A), Kaylee Buchholtz(ASU)(4)(A), Kevin Hayes(LBFQ)(4)(SA), Lauren Fitzgibbon(WOW)(4)(SA), Sarah Simko(UCLA)(4)(A), Madeleine Wojdak(LBQC)(5)(A), Nicholas Worthington(ASU)(5)(A), Ethan A Kapke(AZQC)(6)(SA), Peter Lee(LBQC)(6)(A), Sean Pretti(AZQC)(6)(HS), Daniel Martin(ASU)(7)(HSA), Amanda Nagy(AZQC)(9)(H), Josh Mattison(ASU)(9)(HA), Christopher Seto(LBQC)(10)(HSA)]
+
+---------------
+Round: 8
+---------------
+Round 8
+Pitch 1
+Pool 4A
+LBQC vs NAU
+HR: Sequoia Thomas(CE)(10)(HSA)
+SR: Steve DiCarlo(LAG)(7)(S)
+AR1: Tristan West(NONE)(4)(SA)
+AR2: Caylen McDonald(LAG)(3)(A)
+
+Round 8
+Pitch 2
+Pool 4B
+CAL vs AZQC
+HR: Dan Hanson(CE)(10)(HA)
+SR: Julia Thomas(USC)(7)(HSA)
+AR1: Harrison Baucom(NONE)(4)(SA)
+AR2: McLaren Cundiff(SVS)(6)(HA)
+
+Round 8
+Pitch 3
+Pool 5A
+DBYS vs LBFQ
+HR: Evan Bell(NONE)(8)(HS)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Rebecca Lewis(CE)(3)(A)
+AR2: 
+
+Round 8
+Pitch 4
+Pool 5B
+ASU vs UCLA
+HR: Kelby Brooks(LAG)(7)(H)
+SR: Kyle Campbell(SJSU)(5)(SA)
+AR1: Elizabeth Barcelos(SJSU)(4)(A)
+AR2: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+
+Also available for round 8: []
+
+Available, but playing after round 8: [Jacob Ellis(AQ)(2)(SA), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Nick Church(SBB)(2)(A), Nicole Martinez(UA)(2)(SA), Dalia Nahol(SVSF)(3)(A), Chewy Shaw(SVS)(4)(SA), Hailey Clonts(STAN)(4)(A), Joren Adams(SBB)(4)(A), Janos Barbero(SVSF)(6)(HSA), , Willis Andrew Miles IV(SVS)(6)(SA), Mark Stethem(UA)(7)(SA), Martin Pyne(SVS)(7)(HSA), Chris Lock(SVS)(8)(H), Kevin Oelze(SVS)(9)(HSA)]
+
+---------------
+Round: 9
+---------------
+Round 9
+Pitch 1
+Pool 4B
+STAN vs SVS
+HR: Evan Bell(NONE)(8)(HS)
+SR: Kym Couch(NONE)(6)(SA)
+AR1: Harrison Baucom(NONE)(4)(SA)
+AR2: Nicholas Worthington(ASU)(5)(A)
+
+Round 9
+Pitch 2
+Pool 5A
+UA vs SBB
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Tristan West(NONE)(4)(SA)
+AR1: Ashling Quigley(CAL)(2)(A)
+AR2: Peter Lee(LBQC)(6)(A)
+
+Round 9
+Pitch 3
+Pool 5B
+AQ vs SVSF
+HR: Sean Pretti(AZQC)(6)(HS)
+SR: Steve DiCarlo(LAG)(7)(S)
+AR1: Jessica Ward(LBFQ)(2)(A)
+AR2: Ethan A Kapke(AZQC)(6)(SA)
+
+Round 9
+Pitch 4
+Pool 4C
+WOW vs RQ
+HR: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+SR: Kevin Hayes(LBFQ)(4)(SA)
+AR1: Madeleine Wojdak(LBQC)(5)(A)
+AR2: Kyle Campbell(SJSU)(5)(SA)
+
+Also available for round 9: []
+
+Available, but playing after round 9: [Caleb Ragatz(ASU)(2)(A), Michael Wu(DBYS)(2)(S), Allaina Honda(ASU)(3)(A), Caylen McDonald(LAG)(3)(A), Rebecca Lewis(CE)(3)(A), Elizabeth Barcelos(SJSU)(4)(A), Frank Gao(LBQC)(4)(SA), Gina Allyn(CE)(4)(S), Kaylee Buchholtz(ASU)(4)(A), , , , , Daniel Martin(ASU)(7)(HSA), Julia Thomas(USC)(7)(HSA), Kelby Brooks(LAG)(7)(H), , Josh Mattison(ASU)(9)(HA), Christopher Seto(LBQC)(10)(HSA), Dan Hanson(CE)(10)(HA), Sequoia Thomas(CE)(10)(HSA)]
+
+---------------
+Round: 10
+---------------
+Round 10
+Pitch 1
+Pool 5A
+DBYS vs SJSU
+HR: Kevin Oelze(SVS)(9)(HSA)
+SR: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+AR1: McLaren Cundiff(SVS)(6)(HA)
+AR2: Tristan West(NONE)(4)(SA)
+
+Round 10
+Pitch 2
+Pool 5B
+ASU vs CE
+HR: Amanda Nagy(AZQC)(9)(H)
+SR: Martin Pyne(SVS)(7)(HSA)
+AR1: Kym Couch(NONE)(6)(SA)
+AR2: Joren Adams(SBB)(4)(A)
+
+Round 10
+Pitch 3
+Pool 4C
+LAG vs USC
+HR: Evan Bell(NONE)(8)(HS)
+SR: Willis Andrew Miles IV(SVS)(6)(SA)
+AR1: Janos Barbero(SVSF)(6)(HSA)
+AR2: Harrison Baucom(NONE)(4)(SA)
+
+Round 10
+Pitch 4
+Pool 4A
+LBQC vs USQC
+HR: Chris Lock(SVS)(8)(H)
+SR: Sean Pretti(AZQC)(6)(HS)
+AR1: Ethan A Kapke(AZQC)(6)(SA)
+AR2: Hailey Clonts(STAN)(4)(A)
+
+Also available for round 10: [Ashling Quigley(CAL)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Nick Church(SBB)(2)(A), Dalia Nahol(SVSF)(3)(A), Chewy Shaw(SVS)(4)(SA)]
+
+Available, but playing after round 10: [David Burtch(WOW)(2)(A), Jacob Ellis(AQ)(2)(SA), Jessica Ward(LBFQ)(2)(A), Nicole Martinez(UA)(2)(SA), Pagé Goddard(WOW)(2)(A), Ryan Seaton(UCLA)(2)(SA), Zachary Chiu(WOW)(3)(A), Badal Chandra(WOW)(4)(SA), Corey Osto(UCLA)(4)(SA), Kayl Eubanks(UCLA)(4)(A), Kevin Hayes(LBFQ)(4)(SA), Lauren Fitzgibbon(WOW)(4)(SA), Sarah Simko(UCLA)(4)(A), Mark Stethem(UA)(7)(SA)]
+
+---------------
+Round: 11
+---------------
+Round 11
+Pitch 1
+Pool 5B
+AQ vs UCLA
+HR: Christopher Seto(LBQC)(10)(HSA)
+SR: Kevin Oelze(SVS)(9)(HSA)
+AR1: Ramare (Ra) Hopkins(MBQ)(7)(HSA)
+AR2: Martin Pyne(SVS)(7)(HSA)
+
+Round 11
+Pitch 2
+Pool 5A
+UA vs LBFQ
+HR: Sequoia Thomas(CE)(10)(HSA)
+SR: Evan Bell(NONE)(8)(HS)
+AR1: Dan Hanson(CE)(10)(HA)
+AR2: Josh Mattison(ASU)(9)(HA)
+
+Also available for round 11: [Ashling Quigley(CAL)(2)(A), Caleb Ragatz(ASU)(2)(A), Jessica Zanewich(SVSF)(2)(S), Mathangi Venkatesan(SVSF)(2)(SA), Michael Wu(DBYS)(2)(S), Nick Church(SBB)(2)(A), Allaina Honda(ASU)(3)(A), Caylen McDonald(LAG)(3)(A), Dalia Nahol(SVSF)(3)(A), Rebecca Lewis(CE)(3)(A), Chewy Shaw(SVS)(4)(SA), Elizabeth Barcelos(SJSU)(4)(A), Frank Gao(LBQC)(4)(SA), Gina Allyn(CE)(4)(S), Hailey Clonts(STAN)(4)(A), Harrison Baucom(NONE)(4)(SA), Joren Adams(SBB)(4)(A), Kaylee Buchholtz(ASU)(4)(A), Tristan West(NONE)(4)(SA), Kyle Campbell(SJSU)(5)(SA), Madeleine Wojdak(LBQC)(5)(A), Nicholas Worthington(ASU)(5)(A), Ethan A Kapke(AZQC)(6)(SA), Janos Barbero(SVSF)(6)(HSA), Kym Couch(NONE)(6)(SA), McLaren Cundiff(SVS)(6)(HA), Peter Lee(LBQC)(6)(A), Sean Pretti(AZQC)(6)(HS), Willis Andrew Miles IV(SVS)(6)(SA), Daniel Martin(ASU)(7)(HSA), Julia Thomas(USC)(7)(HSA), Kelby Brooks(LAG)(7)(H), Steve DiCarlo(LAG)(7)(S), Chris Lock(SVS)(8)(H), Amanda Nagy(AZQC)(9)(H)]
+
+Available, but playing after round 11: []
+
+Issues: 
